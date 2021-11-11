@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: 787d2ba691c1ddb4a8d1dd6e4ad5a61f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6714144707589555980
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_0
+  - first:
+      213: 7923824090068906028
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_1
+  - first:
+      213: 5019480618225655079
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_2
+  - first:
+      213: -7804467253329896657
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_3
+  - first:
+      213: 4879416124711062012
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_4
+  - first:
+      213: -8659188187236831880
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_5
+  - first:
+      213: 1569992299602926814
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_6
+  - first:
+      213: 7675865459642761299
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_7
+  - first:
+      213: 5122386691277047809
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_8
+  - first:
+      213: -6733530961880555087
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_9
+  - first:
+      213: -8886828795729533109
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_10
+  - first:
+      213: 1069328893942552741
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_11
+  - first:
+      213: -3259305327974744901
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_12
+  - first:
+      213: 8856335085937158579
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_13
+  - first:
+      213: 1678911032999442856
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_14
+  - first:
+      213: -3782442787857893879
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_15
+  - first:
+      213: -7161921629537022257
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_16
+  - first:
+      213: 6861110636001660199
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_17
+  - first:
+      213: -1752590700492229976
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_18
+  - first:
+      213: 1340984422167489905
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_19
+  - first:
+      213: -7199142292053983219
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_20
+  - first:
+      213: 7566219418495265723
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_21
+  - first:
+      213: 4996725692310881841
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_22
+  - first:
+      213: -271345839562525665
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_23
+  - first:
+      213: -2017720770582585452
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_24
+  - first:
+      213: 3563742341459653789
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_25
+  - first:
+      213: 3862906940059611333
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_26
+  - first:
+      213: -4206538958838962717
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_27
+  - first:
+      213: -123934406436791561
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_28
+  - first:
+      213: 2033357092361246762
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_29
+  - first:
+      213: 6232121691298610479
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_30
+  - first:
+      213: -5578948981751700652
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_31
+  - first:
+      213: -3711243989456677136
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_32
+  - first:
+      213: -76277079618425906
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_33
+  - first:
+      213: -4171487832321160347
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_34
+  - first:
+      213: -4415024585375442696
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_35
+  - first:
+      213: 7037922168819742862
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_36
+  - first:
+      213: 8682053841727891440
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_37
+  - first:
+      213: -6979856025373365755
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_38
+  - first:
+      213: 4268772502068241127
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_39
+  - first:
+      213: 4992574538204805603
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_40
+  - first:
+      213: 5475480986373036389
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_41
+  - first:
+      213: 9208913435704234240
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_42
+  - first:
+      213: 4912013427584301046
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_43
+  - first:
+      213: 1777972775396105983
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_44
+  - first:
+      213: -3306146096952490402
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_45
+  - first:
+      213: 2246059646861329686
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_46
+  - first:
+      213: 678868207042398108
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_47
+  - first:
+      213: -7580231699561381621
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_48
+  - first:
+      213: 6370907885281591763
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_49
+  - first:
+      213: -9055817100354508141
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_50
+  - first:
+      213: 237173027791446642
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_51
+  - first:
+      213: 7539397148540045820
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_52
+  - first:
+      213: 2479664722610398305
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_53
+  - first:
+      213: 5258255294062523212
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_54
+  - first:
+      213: -2489326869029248877
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_55
+  - first:
+      213: 7849628473258570011
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_56
+  - first:
+      213: 3411122038366669102
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_57
+  - first:
+      213: 7010883364813519665
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_58
+  - first:
+      213: 6626140196744354000
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_59
+  - first:
+      213: -8063333690861639573
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_60
+  - first:
+      213: -4647096604491313207
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_61
+  - first:
+      213: 3628099030287005377
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_62
+  - first:
+      213: 4248246352633295172
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_63
+  - first:
+      213: 3021253713305087282
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_64
+  - first:
+      213: 4029856519154432031
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_65
+  - first:
+      213: -5054393627792601029
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_66
+  - first:
+      213: 7868298327972820432
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_67
+  - first:
+      213: -4747069483152482626
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_68
+  - first:
+      213: 1510583422976594120
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_69
+  - first:
+      213: -86890723514000148
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_70
+  - first:
+      213: 8658551182494923758
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_71
+  - first:
+      213: 7436692854466364126
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_72
+  - first:
+      213: 2994005532829854503
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_73
+  - first:
+      213: 5728203898024295533
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_74
+  - first:
+      213: -5262795209085431833
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_75
+  - first:
+      213: 3930564362729952226
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_76
+  - first:
+      213: 8757281946732084912
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_77
+  - first:
+      213: 6280317703019493221
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_78
+  - first:
+      213: -7144062172466171152
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_79
+  - first:
+      213: 3230686484895952962
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_80
+  - first:
+      213: 1090001291258753039
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_81
+  - first:
+      213: -1217976621071889780
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_82
+  - first:
+      213: 9174211489285371544
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_83
+  - first:
+      213: -8079429140210578352
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_84
+  - first:
+      213: -4544812548370631993
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_85
+  - first:
+      213: 4989517641530582200
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_86
+  - first:
+      213: -8574310476938814966
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_87
+  - first:
+      213: 4849344653845864
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_88
+  - first:
+      213: 6891577520289268005
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_89
+  - first:
+      213: 6181428503740358785
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_90
+  - first:
+      213: -2639471995753193891
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_91
+  - first:
+      213: 1491295799866610389
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_92
+  - first:
+      213: 2486214419955612714
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_93
+  - first:
+      213: -7889041102338714067
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_94
+  - first:
+      213: -55308320401225225
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_95
+  - first:
+      213: -857171645192708194
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_96
+  - first:
+      213: 3952010835608428524
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_97
+  - first:
+      213: -4756622842946403850
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_98
+  - first:
+      213: -4456410729877778830
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_99
+  - first:
+      213: 9011155054466271643
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_100
+  - first:
+      213: -6507727038599767744
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_101
+  - first:
+      213: -7542642073677112061
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_102
+  - first:
+      213: 6634065923422565417
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_103
+  - first:
+      213: 6662377359700115392
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_104
+  - first:
+      213: -6463755166953306210
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_105
+  - first:
+      213: -2311014921690556522
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_106
+  - first:
+      213: 4688219133591322760
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_107
+  - first:
+      213: -5402019613791338669
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_108
+  - first:
+      213: 7942652702680884441
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_109
+  - first:
+      213: -1724450207709116561
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_110
+  - first:
+      213: 5857388859850356423
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_111
+  - first:
+      213: 9079324368285442530
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_112
+  - first:
+      213: -7998548346128783967
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_113
+  - first:
+      213: 1519520369258206452
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_114
+  - first:
+      213: -3687195135743178097
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_115
+  - first:
+      213: 6131417182450298767
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_116
+  - first:
+      213: 3761472569706356002
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_117
+  - first:
+      213: 6682471232096236147
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_118
+  - first:
+      213: 459352335491265879
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_119
+  - first:
+      213: -1564206470361309428
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_120
+  - first:
+      213: 985524170936902283
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_121
+  - first:
+      213: -5538092389621917075
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_122
+  - first:
+      213: 4600155453567581713
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_123
+  - first:
+      213: 2316976949638130845
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_124
+  - first:
+      213: -4366892399921330218
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_125
+  - first:
+      213: 5942179963811665308
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_126
+  - first:
+      213: -7441630619937406782
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_127
+  - first:
+      213: 7784562239726012239
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_128
+  - first:
+      213: -5671565288644643310
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_129
+  - first:
+      213: -8279834852320169929
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_130
+  - first:
+      213: 1391503964947179685
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_131
+  - first:
+      213: -7648702015468461339
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_132
+  - first:
+      213: -5346152320571824084
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_133
+  - first:
+      213: -1238335308121672578
+    second: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c17ad90f6d2d50800000000000000
+      internalID: 6714144707589555980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 343
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207d37170417fd60800000000000000
+      internalID: 7923824090068906028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 341
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5c462707c8a540800000000000000
+      internalID: 5019480618225655079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 345
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5a180266f0b390800000000000000
+      internalID: -7804467253329896657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 343
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf947b8fc1b27b340800000000000000
+      internalID: 4879416124711062012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 337
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6d78d83264d780800000000000000
+      internalID: -8659188187236831880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 343
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5ee5adabb9c510800000000000000
+      internalID: 1569992299602926814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 343
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35082b197f6268a60800000000000000
+      internalID: 7675865459642761299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 341
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c1cf5e8f561740800000000000000
+      internalID: 5122386691277047809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 336
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e3051441bd82a0800000000000000
+      internalID: -6733530961880555087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 341
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4724d27b44aba480800000000000000
+      internalID: -8886828795729533109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 345
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d187a6f407de00800000000000000
+      internalID: 1069328893942552741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 337
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf68f921f94c2d0800000000000000
+      internalID: -3259305327974744901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 337
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ec1976d508ea70800000000000000
+      internalID: 8856335085937158579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 336
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a97a6370b0bc4710800000000000000
+      internalID: 1678911032999442856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 336
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906fd7e1350128bc0800000000000000
+      internalID: -3782442787857893879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4242393ebb9c90800000000000000
+      internalID: -7161921629537022257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 295
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d888f85cf873f50800000000000000
+      internalID: 6861110636001660199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 293
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f1842b0c8da7e0800000000000000
+      internalID: -1752590700492229976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 297
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d20a42a322c9210800000000000000
+      internalID: 1340984422167489905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 294
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0081a26a32871c90800000000000000
+      internalID: -7199142292053983219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 289
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba21c397c900960800000000000000
+      internalID: 7566219418495265723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 295
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136024a1b8fe75540800000000000000
+      internalID: 4996725692310881841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 295
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f147895856cfb3cf0800000000000000
+      internalID: -271345839562525665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 293
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5f7546ad9ff3e0800000000000000
+      internalID: -2017720770582585452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b8bd27c4f47130800000000000000
+      internalID: 3563742341459653789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 293
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f4aa356dcb9530800000000000000
+      internalID: 3862906940059611333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 297
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ef88aa1f5f95c0800000000000000
+      internalID: -4206538958838962717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 289
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad2e06052b74ef0800000000000000
+      internalID: -123934406436791561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 289
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2896b7908fe73c10800000000000000
+      internalID: 2033357092361246762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 288
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d3cd6b8a1fc7650800000000000000
+      internalID: 6232121691298610479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 288
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a9aaa5779392b0800000000000000
+      internalID: -5578948981751700652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f691ad21430f7cc0800000000000000
+      internalID: -3711243989456677136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 247
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe6d4766201fef0800000000000000
+      internalID: -76277079618425906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b02a10be5eb16c0800000000000000
+      internalID: -4171487832321160347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 249
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8941a088eaab2c0800000000000000
+      internalID: -4415024585375442696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 246
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f85d8ce8bba160800000000000000
+      internalID: 7037922168819742862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 241
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a10538f9dc7870800000000000000
+      internalID: 8682053841727891440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 245
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a20400de1922f90800000000000000
+      internalID: -6979856025373365755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 247
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2abb449f9bd3b30800000000000000
+      internalID: 4268772502068241127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 247
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97b583710394540800000000000000
+      internalID: 4992574538204805603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_41
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 249
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5699b2f52f0dcfb40800000000000000
+      internalID: 5475480986373036389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 245
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00119769af1accf70800000000000000
+      internalID: 9208913435704234240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77c1bff2afa2440800000000000000
+      internalID: 4912013427584301046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 241
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffedcc1b1d0aca810800000000000000
+      internalID: 1777972775396105983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 241
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564a9b34a53e12d0800000000000000
+      internalID: -3306146096952490402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 240
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154283495b9b2f10800000000000000
+      internalID: 2246059646861329686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 240
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97811a9903db6900800000000000000
+      internalID: 678868207042398108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010d785e6b9dc690800000000000000
+      internalID: -7580231699561381621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 199
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c1f697f20a6850800000000000000
+      internalID: 6370907885281591763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a2676b356435280800000000000000
+      internalID: -9055817100354508141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27220d7bc9b9a4300800000000000000
+      internalID: 237173027791446642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9825bd2c151a860800000000000000
+      internalID: 7539397148540045820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 193
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a2496de9896220800000000000000
+      internalID: 2479664722610398305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 199
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f9ec945319f840800000000000000
+      internalID: 5258255294062523212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902da1d662247dd0800000000000000
+      internalID: -2489326869029248877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 197
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117e5fd18b7fec60800000000000000
+      internalID: 7849628473258570011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290a56cb6db65f20800000000000000
+      internalID: 3411122038366669102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 197
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb7696649ab4160800000000000000
+      internalID: 7010883364813519665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 201
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d852e2f667c4fb50800000000000000
+      internalID: 6626140196744354000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_60
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 193
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a0c2cab8491090800000000000000
+      internalID: -8063333690861639573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_61
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0f547242328fb0800000000000000
+      internalID: -4647096604491313207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6323678d8995230800000000000000
+      internalID: 3628099030287005377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4417e0fac8dc4fa30800000000000000
+      internalID: 4248246352633295172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d21e5be36ade920800000000000000
+      internalID: 3021253713305087282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 153
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18fdff272dece730800000000000000
+      internalID: 4029856519154432031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309c6c56cf2bd9b0800000000000000
+      internalID: -5054393627792601029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 149
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5be9924afc13d60800000000000000
+      internalID: 7868298327972820432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 153
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5994c4750f1eb0800000000000000
+      internalID: -4747069483152482626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01d1aae9ba6f410800000000000000
+      internalID: 1510583422976594120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_70
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 161
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecdbaae85d4bcef0800000000000000
+      internalID: -86890723514000148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 159
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf52eec6a592870800000000000000
+      internalID: 8658551182494923758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_72
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 152
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed24726ffb0743760800000000000000
+      internalID: 7436692854466364126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_73
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 152
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba0ef4b28dc8920800000000000000
+      internalID: 2994005532829854503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_74
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 152
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cfebe881bae7f40800000000000000
+      internalID: 5728203898024295533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_75
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc5dc04abc6f6b0800000000000000
+      internalID: -5262795209085431833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_76
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3145f767b2c8630800000000000000
+      internalID: 3930564362729952226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 148
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be38e0588d188970800000000000000
+      internalID: 8757281946732084912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 148
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f2152dab282750800000000000000
+      internalID: 6280317703019493221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 148
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f239d41e413bdc90800000000000000
+      internalID: -7144062172466171152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f0e8bd34b5dc20800000000000000
+      internalID: 3230686484895952962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f13a3666702f00800000000000000
+      internalID: 1090001291258753039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a874c57b0e81fe0800000000000000
+      internalID: -1217976621071889780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89679211eb8515f70800000000000000
+      internalID: 9174211489285371544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0fcde00a10ef80800000000000000
+      internalID: -8079429140210578352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_85
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c271a311159de0c0800000000000000
+      internalID: -4544812548370631993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 101
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a9fffbd35e3540800000000000000
+      internalID: 4989517641530582200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad624cc0ee10980800000000000000
+      internalID: -8574310476938814966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_88
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 115
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656c79047a311000800000000000000
+      internalID: 4849344653845864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_89
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c8e6dd3dc3af50800000000000000
+      internalID: 6891577520289268005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_90
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 111
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802be93978d8c550800000000000000
+      internalID: 6181428503740358785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 104
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1a825436be5bd0800000000000000
+      internalID: -2639471995753193891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_92
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 104
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d416f0a522b410800000000000000
+      internalID: 1491295799866610389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_93
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 104
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c78e8a7dec08220800000000000000
+      internalID: 2486214419955612714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2615a45aee748290800000000000000
+      internalID: -7889041102338714067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_95
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98c5920618b3ff0800000000000000
+      internalID: -55308320401225225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f50c02ee6ba14f0800000000000000
+      internalID: -857171645192708194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_97
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 100
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef5fe49aec58d630800000000000000
+      internalID: 3952010835608428524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_98
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 100
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cbabd9b41dfdb0800000000000000
+      internalID: -4756622842946403850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_99
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 96
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e45606d06a722c0800000000000000
+      internalID: -4456410729877778830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_100
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 96
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998d6567cd0e0d70800000000000000
+      internalID: 9011155054466271643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 96
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495e01ecb8efa5a0800000000000000
+      internalID: -6507727038599767744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 96
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d5f822ff6235790800000000000000
+      internalID: -7542642073677112061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 57
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924302efecfe01c50800000000000000
+      internalID: 6634065923422565417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfb78ce8e4857c50800000000000000
+      internalID: 6662377359700115392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9707ae0ce02c46a0800000000000000
+      internalID: -6463755166953306210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_106
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 57
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d10a4c20adefd0800000000000000
+      internalID: -2311014921690556522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_107
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 53
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88086e67676ef0140800000000000000
+      internalID: 4688219133591322760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_108
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f364a48cb2805b0800000000000000
+      internalID: -5402019613791338669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d427951d88f93e60800000000000000
+      internalID: 7942652702680884441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6746a03ca58118e0800000000000000
+      internalID: -1724450207709116561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_111
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f5be5220a94150800000000000000
+      internalID: 5857388859850356423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1a33c986d300e70800000000000000
+      internalID: 9079324368285442530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_113
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5a43648a27ff090800000000000000
+      internalID: -7998548346128783967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_114
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 52
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41b9e99bb661510800000000000000
+      internalID: 1519520369258206452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_115
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aca744f8374dcc0800000000000000
+      internalID: -3687195135743178097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 52
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2da9117b271550800000000000000
+      internalID: 6131417182450298767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_117
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d19bd7f5f633430800000000000000
+      internalID: 3761472569706356002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_118
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fcda2e28ecbc50800000000000000
+      internalID: 6682471232096236147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f3bfe382ff5600800000000000000
+      internalID: 459352335491265879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1fb2b082da4ae0800000000000000
+      internalID: -1564206470361309428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82614e03094dad00800000000000000
+      internalID: 985524170936902283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a9a4f405eb423b0800000000000000
+      internalID: -5538092389621917075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_123
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb879230907df30800000000000000
+      internalID: 4600155453567581713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce2f3824e872020800000000000000
+      internalID: 2316976949638130845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70652cf7ea563c0800000000000000
+      internalID: -4366892399921330218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_126
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95107ea13dd67250800000000000000
+      internalID: 5942179963811665308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_127
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 15
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c006fce0640ab890800000000000000
+      internalID: -7441630619937406782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_128
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c9c6dc12580c60800000000000000
+      internalID: 7784562239726012239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21676e15b6d8a41b0800000000000000
+      internalID: -5671565288644643310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_130
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730be8cf11e181d80800000000000000
+      internalID: -8279834852320169929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_131
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 4
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8693ecb7d9f4310800000000000000
+      internalID: 1391503964947179685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_132
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2203f9a0a5ad590800000000000000
+      internalID: -7648702015468461339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_133
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28af212ac6aec5b0800000000000000
+      internalID: -5346152320571824084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-halloween-sprites-rpg-maker-mv-mario-sprites-570x379_134
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747596299c80dee0800000000000000
+      internalID: -1238335308121672578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

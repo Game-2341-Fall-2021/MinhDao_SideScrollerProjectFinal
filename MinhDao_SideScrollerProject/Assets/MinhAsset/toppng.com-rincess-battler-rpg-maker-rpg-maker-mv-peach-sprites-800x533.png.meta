@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 2e6ab8d823a04354692ffc4e93382d34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6012167104258667005
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_0
+  - first:
+      213: -762149953598830793
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_1
+  - first:
+      213: 6384261062857749980
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_2
+  - first:
+      213: -3189504836935018379
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_3
+  - first:
+      213: 3953557168156117967
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_4
+  - first:
+      213: 1013437489235357642
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_5
+  - first:
+      213: -158741497511960683
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_6
+  - first:
+      213: -4496095275654963452
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_7
+  - first:
+      213: -1853021439875694493
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_8
+  - first:
+      213: 8010138309212848543
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_9
+  - first:
+      213: -1470008732187469097
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_10
+  - first:
+      213: -3722195447325970188
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_11
+  - first:
+      213: 2232301053556830337
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_12
+  - first:
+      213: -7953917661150898326
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_13
+  - first:
+      213: 434921118176480451
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_14
+  - first:
+      213: -8679584785254534480
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_15
+  - first:
+      213: 3176678254657909023
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_16
+  - first:
+      213: -4341310294942507907
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_17
+  - first:
+      213: -1061609470127973476
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_18
+  - first:
+      213: 507107161322269345
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_19
+  - first:
+      213: 2522365200695952187
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_20
+  - first:
+      213: -7693632677393978874
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_21
+  - first:
+      213: 5969862925340618158
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_22
+  - first:
+      213: -2685167014311692238
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_23
+  - first:
+      213: -261702604621847850
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_24
+  - first:
+      213: 1131697428296996656
+    second: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 461
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df170a3a0228f6350800000000000000
+      internalID: 6012167104258667005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 275
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 94}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737492eb7ac4c65f0800000000000000
+      internalID: -762149953598830793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 462
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57ef48c93799850800000000000000
+      internalID: 6384261062857749980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 368
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781911ef3a9cb3d0800000000000000
+      internalID: -3189504836935018379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 91
+        width: 93
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb052f2c4bddd630800000000000000
+      internalID: 3953557168156117967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 93
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfefebe604701e00800000000000000
+      internalID: 1013437489235357642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 370
+        width: 79
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f9fa5f2790ccdf0800000000000000
+      internalID: -158741497511960683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 370
+        width: 79
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f164a0b29aa91c0800000000000000
+      internalID: -4496095275654963452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_8
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 370
+        width: 79
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c60371deb846e0800000000000000
+      internalID: -1853021439875694493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 277
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91416a4a5ab92f60800000000000000
+      internalID: 8010138309212848543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 277
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5e35b8da799be0800000000000000
+      internalID: -1470008732187469097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 277
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03f8136fa185cc0800000000000000
+      internalID: -3722195447325970188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803cf02bf9bafe10800000000000000
+      internalID: 2232301053556830337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 91
+        width: 76
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67156267020e9190800000000000000
+      internalID: -7953917661150898326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 91
+        width: 76
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8932e376290600800000000000000
+      internalID: 434921118176480451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_15
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 184
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b40dcf9beb8780800000000000000
+      internalID: -8679584785254534480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 184
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b796ba04d51c20800000000000000
+      internalID: 3176678254657909023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 184
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c943ab94190c3c0800000000000000
+      internalID: -4341310294942507907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 91
+        width: 278
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd4d2cfc76441f0800000000000000
+      internalID: -1061609470127973476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaaba5c64b990700800000000000000
+      internalID: 507107161322269345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330a4539cd310320800000000000000
+      internalID: 2522365200695952187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a289fa7d9ba3590800000000000000
+      internalID: -7693632677393978874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada3be63b639d250800000000000000
+      internalID: 5969862925340618158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fa5db3de5cbad0800000000000000
+      internalID: -2685167014311692238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d268be1ede3e5cf0800000000000000
+      internalID: -261702604621847850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-rincess-battler-rpg-maker-rpg-maker-mv-peach-sprites-800x533_25
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 277
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0379dd6a0d894bf00800000000000000
+      internalID: 1131697428296996656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

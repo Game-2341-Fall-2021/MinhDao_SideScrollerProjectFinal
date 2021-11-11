@@ -1,0 +1,6348 @@
+fileFormatVersion: 2
+guid: 391c6602fe6b9e5488309bda4c5282e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3608195486976951136
+    second: yoshi_by_jmkrebs30_d4ygyah_0
+  - first:
+      213: -4457899638398918736
+    second: yoshi_by_jmkrebs30_d4ygyah_1
+  - first:
+      213: -803343283289425178
+    second: yoshi_by_jmkrebs30_d4ygyah_2
+  - first:
+      213: 6708048433652182691
+    second: yoshi_by_jmkrebs30_d4ygyah_3
+  - first:
+      213: -1980151281797435560
+    second: yoshi_by_jmkrebs30_d4ygyah_4
+  - first:
+      213: 340022115050461305
+    second: yoshi_by_jmkrebs30_d4ygyah_5
+  - first:
+      213: -1971495739332879999
+    second: yoshi_by_jmkrebs30_d4ygyah_6
+  - first:
+      213: -6182018555979658766
+    second: yoshi_by_jmkrebs30_d4ygyah_7
+  - first:
+      213: -1806704138566055581
+    second: yoshi_by_jmkrebs30_d4ygyah_8
+  - first:
+      213: 2539033518896156579
+    second: yoshi_by_jmkrebs30_d4ygyah_9
+  - first:
+      213: 4701687138664059927
+    second: yoshi_by_jmkrebs30_d4ygyah_10
+  - first:
+      213: 8643481109323596377
+    second: yoshi_by_jmkrebs30_d4ygyah_11
+  - first:
+      213: 4314993325871046730
+    second: yoshi_by_jmkrebs30_d4ygyah_12
+  - first:
+      213: -2496191227654245333
+    second: yoshi_by_jmkrebs30_d4ygyah_13
+  - first:
+      213: -7600474082754355763
+    second: yoshi_by_jmkrebs30_d4ygyah_14
+  - first:
+      213: -1075542154990497489
+    second: yoshi_by_jmkrebs30_d4ygyah_15
+  - first:
+      213: 4499105198885558076
+    second: yoshi_by_jmkrebs30_d4ygyah_16
+  - first:
+      213: -5158939728124486715
+    second: yoshi_by_jmkrebs30_d4ygyah_17
+  - first:
+      213: 2351165102455572269
+    second: yoshi_by_jmkrebs30_d4ygyah_18
+  - first:
+      213: -34977927914046223
+    second: yoshi_by_jmkrebs30_d4ygyah_19
+  - first:
+      213: 3360663730583535706
+    second: yoshi_by_jmkrebs30_d4ygyah_20
+  - first:
+      213: 4586489661148901411
+    second: yoshi_by_jmkrebs30_d4ygyah_21
+  - first:
+      213: 7220779535093576484
+    second: yoshi_by_jmkrebs30_d4ygyah_22
+  - first:
+      213: -4355693957825601954
+    second: yoshi_by_jmkrebs30_d4ygyah_23
+  - first:
+      213: 6825358852367289954
+    second: yoshi_by_jmkrebs30_d4ygyah_24
+  - first:
+      213: 8698671123057996476
+    second: yoshi_by_jmkrebs30_d4ygyah_25
+  - first:
+      213: 866146202127899456
+    second: yoshi_by_jmkrebs30_d4ygyah_26
+  - first:
+      213: -5223498695894266685
+    second: yoshi_by_jmkrebs30_d4ygyah_27
+  - first:
+      213: 1797932567608479701
+    second: yoshi_by_jmkrebs30_d4ygyah_28
+  - first:
+      213: 7693377330648383046
+    second: yoshi_by_jmkrebs30_d4ygyah_29
+  - first:
+      213: 8923713693854284153
+    second: yoshi_by_jmkrebs30_d4ygyah_30
+  - first:
+      213: -4993042545645166510
+    second: yoshi_by_jmkrebs30_d4ygyah_31
+  - first:
+      213: -422795894768990085
+    second: yoshi_by_jmkrebs30_d4ygyah_32
+  - first:
+      213: -4483307941131221335
+    second: yoshi_by_jmkrebs30_d4ygyah_33
+  - first:
+      213: 5061015513794525058
+    second: yoshi_by_jmkrebs30_d4ygyah_34
+  - first:
+      213: -4435851784892512858
+    second: yoshi_by_jmkrebs30_d4ygyah_35
+  - first:
+      213: 4299178303678161086
+    second: yoshi_by_jmkrebs30_d4ygyah_36
+  - first:
+      213: -301894890850768292
+    second: yoshi_by_jmkrebs30_d4ygyah_37
+  - first:
+      213: 6202499687137549191
+    second: yoshi_by_jmkrebs30_d4ygyah_38
+  - first:
+      213: -8554349111506527901
+    second: yoshi_by_jmkrebs30_d4ygyah_39
+  - first:
+      213: 7608536296812340278
+    second: yoshi_by_jmkrebs30_d4ygyah_40
+  - first:
+      213: 3902210813060046081
+    second: yoshi_by_jmkrebs30_d4ygyah_41
+  - first:
+      213: -2506279691752717473
+    second: yoshi_by_jmkrebs30_d4ygyah_42
+  - first:
+      213: 100839165087520524
+    second: yoshi_by_jmkrebs30_d4ygyah_43
+  - first:
+      213: 3204775419054827442
+    second: yoshi_by_jmkrebs30_d4ygyah_44
+  - first:
+      213: -3620335690615800493
+    second: yoshi_by_jmkrebs30_d4ygyah_45
+  - first:
+      213: 119921253668627072
+    second: yoshi_by_jmkrebs30_d4ygyah_46
+  - first:
+      213: 8876072551466725196
+    second: yoshi_by_jmkrebs30_d4ygyah_47
+  - first:
+      213: 7950493296152804601
+    second: yoshi_by_jmkrebs30_d4ygyah_48
+  - first:
+      213: -8410996301607853747
+    second: yoshi_by_jmkrebs30_d4ygyah_49
+  - first:
+      213: -527105885209650032
+    second: yoshi_by_jmkrebs30_d4ygyah_50
+  - first:
+      213: -1009337494720811085
+    second: yoshi_by_jmkrebs30_d4ygyah_51
+  - first:
+      213: 6614009682735165566
+    second: yoshi_by_jmkrebs30_d4ygyah_52
+  - first:
+      213: 1464939880764420337
+    second: yoshi_by_jmkrebs30_d4ygyah_53
+  - first:
+      213: 1830850932158375783
+    second: yoshi_by_jmkrebs30_d4ygyah_54
+  - first:
+      213: 8000189187238801574
+    second: yoshi_by_jmkrebs30_d4ygyah_55
+  - first:
+      213: -5645994681000473518
+    second: yoshi_by_jmkrebs30_d4ygyah_56
+  - first:
+      213: 2208062710507542893
+    second: yoshi_by_jmkrebs30_d4ygyah_57
+  - first:
+      213: 181257360803040098
+    second: yoshi_by_jmkrebs30_d4ygyah_58
+  - first:
+      213: -2003970975342512681
+    second: yoshi_by_jmkrebs30_d4ygyah_59
+  - first:
+      213: -8794440736340601998
+    second: yoshi_by_jmkrebs30_d4ygyah_60
+  - first:
+      213: -1362221647992020442
+    second: yoshi_by_jmkrebs30_d4ygyah_61
+  - first:
+      213: 8322881752308511045
+    second: yoshi_by_jmkrebs30_d4ygyah_62
+  - first:
+      213: -8484528998077487851
+    second: yoshi_by_jmkrebs30_d4ygyah_63
+  - first:
+      213: 7474552487411261251
+    second: yoshi_by_jmkrebs30_d4ygyah_64
+  - first:
+      213: -7366274748342925540
+    second: yoshi_by_jmkrebs30_d4ygyah_65
+  - first:
+      213: -742268173010801452
+    second: yoshi_by_jmkrebs30_d4ygyah_66
+  - first:
+      213: 1458427296536212325
+    second: yoshi_by_jmkrebs30_d4ygyah_67
+  - first:
+      213: -5537052129077941444
+    second: yoshi_by_jmkrebs30_d4ygyah_68
+  - first:
+      213: 5771717323961924879
+    second: yoshi_by_jmkrebs30_d4ygyah_69
+  - first:
+      213: -6286268422235541113
+    second: yoshi_by_jmkrebs30_d4ygyah_70
+  - first:
+      213: -8759603337719736376
+    second: yoshi_by_jmkrebs30_d4ygyah_71
+  - first:
+      213: 5938577479578235113
+    second: yoshi_by_jmkrebs30_d4ygyah_72
+  - first:
+      213: -263641470040887471
+    second: yoshi_by_jmkrebs30_d4ygyah_73
+  - first:
+      213: 5242614705157643248
+    second: yoshi_by_jmkrebs30_d4ygyah_74
+  - first:
+      213: 3376618984160512299
+    second: yoshi_by_jmkrebs30_d4ygyah_75
+  - first:
+      213: -7220587783489770621
+    second: yoshi_by_jmkrebs30_d4ygyah_76
+  - first:
+      213: 4387419534299524613
+    second: yoshi_by_jmkrebs30_d4ygyah_77
+  - first:
+      213: 2240082586265265629
+    second: yoshi_by_jmkrebs30_d4ygyah_78
+  - first:
+      213: 2984821177400533322
+    second: yoshi_by_jmkrebs30_d4ygyah_79
+  - first:
+      213: -110817044180684310
+    second: yoshi_by_jmkrebs30_d4ygyah_80
+  - first:
+      213: 1452221514378586231
+    second: yoshi_by_jmkrebs30_d4ygyah_81
+  - first:
+      213: -7973242630217689740
+    second: yoshi_by_jmkrebs30_d4ygyah_82
+  - first:
+      213: -3110727775415067719
+    second: yoshi_by_jmkrebs30_d4ygyah_83
+  - first:
+      213: -6855593965409573299
+    second: yoshi_by_jmkrebs30_d4ygyah_84
+  - first:
+      213: 5045626825058933718
+    second: yoshi_by_jmkrebs30_d4ygyah_85
+  - first:
+      213: 2313376255764257419
+    second: yoshi_by_jmkrebs30_d4ygyah_86
+  - first:
+      213: 8297884107349674502
+    second: yoshi_by_jmkrebs30_d4ygyah_87
+  - first:
+      213: -4418481635414471134
+    second: yoshi_by_jmkrebs30_d4ygyah_88
+  - first:
+      213: 4887726171566571625
+    second: yoshi_by_jmkrebs30_d4ygyah_89
+  - first:
+      213: -1954252963542439656
+    second: yoshi_by_jmkrebs30_d4ygyah_90
+  - first:
+      213: 4490783300411340478
+    second: yoshi_by_jmkrebs30_d4ygyah_91
+  - first:
+      213: 9218304362741142236
+    second: yoshi_by_jmkrebs30_d4ygyah_92
+  - first:
+      213: -3960622443430782589
+    second: yoshi_by_jmkrebs30_d4ygyah_93
+  - first:
+      213: -2532518473588656657
+    second: yoshi_by_jmkrebs30_d4ygyah_94
+  - first:
+      213: -8967870651423537372
+    second: yoshi_by_jmkrebs30_d4ygyah_95
+  - first:
+      213: 1848143167867097431
+    second: yoshi_by_jmkrebs30_d4ygyah_96
+  - first:
+      213: 7415732473239878091
+    second: yoshi_by_jmkrebs30_d4ygyah_97
+  - first:
+      213: -7288270338204451678
+    second: yoshi_by_jmkrebs30_d4ygyah_98
+  - first:
+      213: 2491177690081569180
+    second: yoshi_by_jmkrebs30_d4ygyah_99
+  - first:
+      213: 4161887570386788091
+    second: yoshi_by_jmkrebs30_d4ygyah_100
+  - first:
+      213: -267849619822264258
+    second: yoshi_by_jmkrebs30_d4ygyah_101
+  - first:
+      213: 332429122831798410
+    second: yoshi_by_jmkrebs30_d4ygyah_102
+  - first:
+      213: 7595109984273307482
+    second: yoshi_by_jmkrebs30_d4ygyah_103
+  - first:
+      213: 6740213241469241690
+    second: yoshi_by_jmkrebs30_d4ygyah_104
+  - first:
+      213: 6014365010049519832
+    second: yoshi_by_jmkrebs30_d4ygyah_105
+  - first:
+      213: 4928679147016737031
+    second: yoshi_by_jmkrebs30_d4ygyah_106
+  - first:
+      213: -903819675750069314
+    second: yoshi_by_jmkrebs30_d4ygyah_107
+  - first:
+      213: -2662964888967198027
+    second: yoshi_by_jmkrebs30_d4ygyah_108
+  - first:
+      213: -8716622295847442566
+    second: yoshi_by_jmkrebs30_d4ygyah_109
+  - first:
+      213: 5490778027682524613
+    second: yoshi_by_jmkrebs30_d4ygyah_110
+  - first:
+      213: 6576325378802434541
+    second: yoshi_by_jmkrebs30_d4ygyah_111
+  - first:
+      213: 1753768918831142263
+    second: yoshi_by_jmkrebs30_d4ygyah_112
+  - first:
+      213: -3395353167137222390
+    second: yoshi_by_jmkrebs30_d4ygyah_113
+  - first:
+      213: -5069370508921539038
+    second: yoshi_by_jmkrebs30_d4ygyah_114
+  - first:
+      213: -7805132202307923284
+    second: yoshi_by_jmkrebs30_d4ygyah_115
+  - first:
+      213: 3637349308742558228
+    second: yoshi_by_jmkrebs30_d4ygyah_116
+  - first:
+      213: -491818564485829805
+    second: yoshi_by_jmkrebs30_d4ygyah_117
+  - first:
+      213: -4862221443679113273
+    second: yoshi_by_jmkrebs30_d4ygyah_118
+  - first:
+      213: 5416173281076196675
+    second: yoshi_by_jmkrebs30_d4ygyah_119
+  - first:
+      213: -8509585530531652491
+    second: yoshi_by_jmkrebs30_d4ygyah_120
+  - first:
+      213: -3013981538561635594
+    second: yoshi_by_jmkrebs30_d4ygyah_121
+  - first:
+      213: -5361147086728988684
+    second: yoshi_by_jmkrebs30_d4ygyah_122
+  - first:
+      213: -3956225427718713269
+    second: yoshi_by_jmkrebs30_d4ygyah_123
+  - first:
+      213: -6191156682088514327
+    second: yoshi_by_jmkrebs30_d4ygyah_124
+  - first:
+      213: 4545726790371443388
+    second: yoshi_by_jmkrebs30_d4ygyah_125
+  - first:
+      213: -4881568862540207703
+    second: yoshi_by_jmkrebs30_d4ygyah_126
+  - first:
+      213: 6233942788165447420
+    second: yoshi_by_jmkrebs30_d4ygyah_127
+  - first:
+      213: 7843261716591261867
+    second: yoshi_by_jmkrebs30_d4ygyah_128
+  - first:
+      213: -4182823718050513329
+    second: yoshi_by_jmkrebs30_d4ygyah_129
+  - first:
+      213: 4704439533675174549
+    second: yoshi_by_jmkrebs30_d4ygyah_130
+  - first:
+      213: 961733921250918353
+    second: yoshi_by_jmkrebs30_d4ygyah_131
+  - first:
+      213: 2044841432171339540
+    second: yoshi_by_jmkrebs30_d4ygyah_132
+  - first:
+      213: -7594082192486892929
+    second: yoshi_by_jmkrebs30_d4ygyah_133
+  - first:
+      213: 7329773878820582307
+    second: yoshi_by_jmkrebs30_d4ygyah_134
+  - first:
+      213: 441564121134826240
+    second: yoshi_by_jmkrebs30_d4ygyah_135
+  - first:
+      213: -7413699302200905106
+    second: yoshi_by_jmkrebs30_d4ygyah_136
+  - first:
+      213: -4551051917665420457
+    second: yoshi_by_jmkrebs30_d4ygyah_137
+  - first:
+      213: -8484493004179142149
+    second: yoshi_by_jmkrebs30_d4ygyah_138
+  - first:
+      213: -8243185614273027583
+    second: yoshi_by_jmkrebs30_d4ygyah_139
+  - first:
+      213: 8168438653513280548
+    second: yoshi_by_jmkrebs30_d4ygyah_140
+  - first:
+      213: 7754690282150104987
+    second: yoshi_by_jmkrebs30_d4ygyah_141
+  - first:
+      213: 4856969729974725198
+    second: yoshi_by_jmkrebs30_d4ygyah_142
+  - first:
+      213: 7802502726544962855
+    second: yoshi_by_jmkrebs30_d4ygyah_143
+  - first:
+      213: 4993291679106759375
+    second: yoshi_by_jmkrebs30_d4ygyah_144
+  - first:
+      213: -2576396997075655191
+    second: yoshi_by_jmkrebs30_d4ygyah_145
+  - first:
+      213: -8907879877524949410
+    second: yoshi_by_jmkrebs30_d4ygyah_146
+  - first:
+      213: -7724402651491478913
+    second: yoshi_by_jmkrebs30_d4ygyah_147
+  - first:
+      213: 9121386722553456561
+    second: yoshi_by_jmkrebs30_d4ygyah_148
+  - first:
+      213: -5590567047691733161
+    second: yoshi_by_jmkrebs30_d4ygyah_149
+  - first:
+      213: -2377982693943778502
+    second: yoshi_by_jmkrebs30_d4ygyah_150
+  - first:
+      213: -2889771754180180090
+    second: yoshi_by_jmkrebs30_d4ygyah_151
+  - first:
+      213: 6241996895698793996
+    second: yoshi_by_jmkrebs30_d4ygyah_152
+  - first:
+      213: 6057311302139150022
+    second: yoshi_by_jmkrebs30_d4ygyah_153
+  - first:
+      213: 8438084985827484840
+    second: yoshi_by_jmkrebs30_d4ygyah_154
+  - first:
+      213: -6244308017618403167
+    second: yoshi_by_jmkrebs30_d4ygyah_155
+  - first:
+      213: -5096168822148039357
+    second: yoshi_by_jmkrebs30_d4ygyah_156
+  - first:
+      213: 4690620964860092052
+    second: yoshi_by_jmkrebs30_d4ygyah_157
+  - first:
+      213: -1250510159282782936
+    second: yoshi_by_jmkrebs30_d4ygyah_158
+  - first:
+      213: -6817401389775393641
+    second: yoshi_by_jmkrebs30_d4ygyah_159
+  - first:
+      213: 2156712166803114651
+    second: yoshi_by_jmkrebs30_d4ygyah_160
+  - first:
+      213: 7748871435596557999
+    second: yoshi_by_jmkrebs30_d4ygyah_161
+  - first:
+      213: 4680964541254960376
+    second: yoshi_by_jmkrebs30_d4ygyah_162
+  - first:
+      213: 3471732993559859543
+    second: yoshi_by_jmkrebs30_d4ygyah_163
+  - first:
+      213: 5531922280389791567
+    second: yoshi_by_jmkrebs30_d4ygyah_164
+  - first:
+      213: -446648109615385901
+    second: yoshi_by_jmkrebs30_d4ygyah_165
+  - first:
+      213: -6443818711887631527
+    second: yoshi_by_jmkrebs30_d4ygyah_166
+  - first:
+      213: -3234791054567453189
+    second: yoshi_by_jmkrebs30_d4ygyah_167
+  - first:
+      213: 6721758103348807486
+    second: yoshi_by_jmkrebs30_d4ygyah_168
+  - first:
+      213: 5108795515082717680
+    second: yoshi_by_jmkrebs30_d4ygyah_169
+  - first:
+      213: -404707201919003082
+    second: yoshi_by_jmkrebs30_d4ygyah_170
+  - first:
+      213: 4536333103191414395
+    second: yoshi_by_jmkrebs30_d4ygyah_171
+  - first:
+      213: 1425570517383483437
+    second: yoshi_by_jmkrebs30_d4ygyah_172
+  - first:
+      213: -60852597083925128
+    second: yoshi_by_jmkrebs30_d4ygyah_173
+  - first:
+      213: 7850441663011237668
+    second: yoshi_by_jmkrebs30_d4ygyah_174
+  - first:
+      213: 7286995722470283614
+    second: yoshi_by_jmkrebs30_d4ygyah_175
+  - first:
+      213: -2065051877734705347
+    second: yoshi_by_jmkrebs30_d4ygyah_176
+  - first:
+      213: 6820718753503468247
+    second: yoshi_by_jmkrebs30_d4ygyah_177
+  - first:
+      213: 7172568503794985316
+    second: yoshi_by_jmkrebs30_d4ygyah_178
+  - first:
+      213: -7204949793603849484
+    second: yoshi_by_jmkrebs30_d4ygyah_179
+  - first:
+      213: 2916256885966011250
+    second: yoshi_by_jmkrebs30_d4ygyah_180
+  - first:
+      213: -1475634396142890774
+    second: yoshi_by_jmkrebs30_d4ygyah_181
+  - first:
+      213: 1577080502960736834
+    second: yoshi_by_jmkrebs30_d4ygyah_182
+  - first:
+      213: 6441559376753604479
+    second: yoshi_by_jmkrebs30_d4ygyah_183
+  - first:
+      213: -7669677689982796607
+    second: yoshi_by_jmkrebs30_d4ygyah_184
+  - first:
+      213: 2551624213426737944
+    second: yoshi_by_jmkrebs30_d4ygyah_185
+  - first:
+      213: -1700505272182719717
+    second: yoshi_by_jmkrebs30_d4ygyah_186
+  - first:
+      213: 2477039973731537792
+    second: yoshi_by_jmkrebs30_d4ygyah_187
+  - first:
+      213: 2785687551859341207
+    second: yoshi_by_jmkrebs30_d4ygyah_188
+  - first:
+      213: -2989903347675757929
+    second: yoshi_by_jmkrebs30_d4ygyah_189
+  - first:
+      213: -6563549109178680703
+    second: yoshi_by_jmkrebs30_d4ygyah_190
+  - first:
+      213: 6222380448911106374
+    second: yoshi_by_jmkrebs30_d4ygyah_191
+  - first:
+      213: -2643387923138882732
+    second: yoshi_by_jmkrebs30_d4ygyah_192
+  - first:
+      213: 2330555597331816542
+    second: yoshi_by_jmkrebs30_d4ygyah_193
+  - first:
+      213: -144172359921899447
+    second: yoshi_by_jmkrebs30_d4ygyah_194
+  - first:
+      213: 2015200516465189425
+    second: yoshi_by_jmkrebs30_d4ygyah_195
+  - first:
+      213: 3868233107331178879
+    second: yoshi_by_jmkrebs30_d4ygyah_196
+  - first:
+      213: 4573061472619703119
+    second: yoshi_by_jmkrebs30_d4ygyah_197
+  - first:
+      213: -4305658149073250212
+    second: yoshi_by_jmkrebs30_d4ygyah_198
+  - first:
+      213: 9215234763340691377
+    second: yoshi_by_jmkrebs30_d4ygyah_199
+  - first:
+      213: -8435306659576751109
+    second: yoshi_by_jmkrebs30_d4ygyah_200
+  - first:
+      213: 6022126139097589493
+    second: yoshi_by_jmkrebs30_d4ygyah_201
+  - first:
+      213: -1974185139615422024
+    second: yoshi_by_jmkrebs30_d4ygyah_202
+  - first:
+      213: 5769186208150083140
+    second: yoshi_by_jmkrebs30_d4ygyah_203
+  - first:
+      213: -5798225091771587618
+    second: yoshi_by_jmkrebs30_d4ygyah_204
+  - first:
+      213: 4214722420041672235
+    second: yoshi_by_jmkrebs30_d4ygyah_205
+  - first:
+      213: 8560186619507460750
+    second: yoshi_by_jmkrebs30_d4ygyah_206
+  - first:
+      213: -6360874668129069265
+    second: yoshi_by_jmkrebs30_d4ygyah_207
+  - first:
+      213: -6809094638976354027
+    second: yoshi_by_jmkrebs30_d4ygyah_208
+  - first:
+      213: -3915422928769683923
+    second: yoshi_by_jmkrebs30_d4ygyah_209
+  - first:
+      213: -796628851908231909
+    second: yoshi_by_jmkrebs30_d4ygyah_210
+  - first:
+      213: -7212880879602884291
+    second: yoshi_by_jmkrebs30_d4ygyah_211
+  - first:
+      213: 7734375898352348592
+    second: yoshi_by_jmkrebs30_d4ygyah_212
+  - first:
+      213: -4818859999909884765
+    second: yoshi_by_jmkrebs30_d4ygyah_213
+  - first:
+      213: 2983784155504035571
+    second: yoshi_by_jmkrebs30_d4ygyah_214
+  - first:
+      213: -7141923745057132180
+    second: yoshi_by_jmkrebs30_d4ygyah_215
+  - first:
+      213: 5060172782047575764
+    second: yoshi_by_jmkrebs30_d4ygyah_216
+  - first:
+      213: -6042488734147513224
+    second: yoshi_by_jmkrebs30_d4ygyah_217
+  - first:
+      213: 4191793242096770964
+    second: yoshi_by_jmkrebs30_d4ygyah_218
+  - first:
+      213: -294275563584354562
+    second: yoshi_by_jmkrebs30_d4ygyah_219
+  - first:
+      213: -2811990667909572123
+    second: yoshi_by_jmkrebs30_d4ygyah_220
+  - first:
+      213: -4598844614557709546
+    second: yoshi_by_jmkrebs30_d4ygyah_221
+  - first:
+      213: 2388069501496271706
+    second: yoshi_by_jmkrebs30_d4ygyah_222
+  - first:
+      213: -1847906813115583914
+    second: yoshi_by_jmkrebs30_d4ygyah_223
+  - first:
+      213: 7942663153984003745
+    second: yoshi_by_jmkrebs30_d4ygyah_224
+  - first:
+      213: 6771002453136290490
+    second: yoshi_by_jmkrebs30_d4ygyah_225
+  - first:
+      213: 5165677229977848582
+    second: yoshi_by_jmkrebs30_d4ygyah_226
+  - first:
+      213: -7464834130254011593
+    second: yoshi_by_jmkrebs30_d4ygyah_227
+  - first:
+      213: -4756048682702362505
+    second: yoshi_by_jmkrebs30_d4ygyah_228
+  - first:
+      213: -5266522873730018440
+    second: yoshi_by_jmkrebs30_d4ygyah_229
+  - first:
+      213: -4036005309402227335
+    second: yoshi_by_jmkrebs30_d4ygyah_230
+  - first:
+      213: 5492673678225540892
+    second: yoshi_by_jmkrebs30_d4ygyah_231
+  - first:
+      213: -1276276081255466526
+    second: yoshi_by_jmkrebs30_d4ygyah_232
+  - first:
+      213: 5900604737133204659
+    second: yoshi_by_jmkrebs30_d4ygyah_233
+  - first:
+      213: -3536425537135430857
+    second: yoshi_by_jmkrebs30_d4ygyah_234
+  - first:
+      213: 4793041692347205805
+    second: yoshi_by_jmkrebs30_d4ygyah_235
+  - first:
+      213: 6756345998137078122
+    second: yoshi_by_jmkrebs30_d4ygyah_236
+  - first:
+      213: -335160678377257827
+    second: yoshi_by_jmkrebs30_d4ygyah_237
+  - first:
+      213: 4251688273679616388
+    second: yoshi_by_jmkrebs30_d4ygyah_238
+  - first:
+      213: -1150163669224266656
+    second: yoshi_by_jmkrebs30_d4ygyah_239
+  - first:
+      213: -3627178983983317735
+    second: yoshi_by_jmkrebs30_d4ygyah_240
+  - first:
+      213: 8906250911715310428
+    second: yoshi_by_jmkrebs30_d4ygyah_241
+  - first:
+      213: -4925743680479504088
+    second: yoshi_by_jmkrebs30_d4ygyah_242
+  - first:
+      213: 1701130199664498207
+    second: yoshi_by_jmkrebs30_d4ygyah_243
+  - first:
+      213: 170691629744871447
+    second: yoshi_by_jmkrebs30_d4ygyah_244
+  - first:
+      213: -7684466142824441465
+    second: yoshi_by_jmkrebs30_d4ygyah_245
+  - first:
+      213: -2244637227545351280
+    second: yoshi_by_jmkrebs30_d4ygyah_246
+  - first:
+      213: 1326591085235683325
+    second: yoshi_by_jmkrebs30_d4ygyah_247
+  - first:
+      213: -7453521458810002645
+    second: yoshi_by_jmkrebs30_d4ygyah_248
+  - first:
+      213: -3538218088376689250
+    second: yoshi_by_jmkrebs30_d4ygyah_249
+  - first:
+      213: -4605012527028542580
+    second: yoshi_by_jmkrebs30_d4ygyah_250
+  - first:
+      213: 3987657199118236874
+    second: yoshi_by_jmkrebs30_d4ygyah_251
+  - first:
+      213: 2345240983275443063
+    second: yoshi_by_jmkrebs30_d4ygyah_252
+  - first:
+      213: -8061120786229118902
+    second: yoshi_by_jmkrebs30_d4ygyah_253
+  - first:
+      213: 8426148397130674365
+    second: yoshi_by_jmkrebs30_d4ygyah_254
+  - first:
+      213: -5874220900695341877
+    second: yoshi_by_jmkrebs30_d4ygyah_255
+  - first:
+      213: 3019239442919346557
+    second: yoshi_by_jmkrebs30_d4ygyah_256
+  - first:
+      213: 6594746818025748575
+    second: yoshi_by_jmkrebs30_d4ygyah_257
+  - first:
+      213: -7509007089294764601
+    second: yoshi_by_jmkrebs30_d4ygyah_258
+  - first:
+      213: -7920647744628502676
+    second: yoshi_by_jmkrebs30_d4ygyah_259
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063cd69ada2e21230800000000000000
+      internalID: 3608195486976951136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 742
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd3e8d5eb5222c0800000000000000
+      internalID: -4457899638398918736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 741
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea76d64a83f9d4f0800000000000000
+      internalID: -803343283289425178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 741
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae24f77286c71d50800000000000000
+      internalID: 6708048433652182691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 739
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fede686e61584e0800000000000000
+      internalID: -1980151281797435560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 744
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781c57ef4008b400800000000000000
+      internalID: 340022115050461305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 743
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891edc0217d3a4e0800000000000000
+      internalID: -1971495739332879999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 742
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f985f780ee053aa0800000000000000
+      internalID: -6182018555979658766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 742
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369ca86882c4de6e0800000000000000
+      internalID: -1806704138566055581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 739
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8d9678857c3320800000000000000
+      internalID: 2539033518896156579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141811ca8fbf3140800000000000000
+      internalID: 4701687138664059927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95248081640d3f770800000000000000
+      internalID: 8643481109323596377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a9bc619fe1eb30800000000000000
+      internalID: 4314993325871046730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24f838cd4fbb5dd0800000000000000
+      internalID: -2496191227654245333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1ddc3711b58690800000000000000
+      internalID: -7600474082754355763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 735
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2155d6cb18e211f0800000000000000
+      internalID: -1075542154990497489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37dfa25758007e30800000000000000
+      internalID: 4499105198885558076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 716
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb5d7786a3c768b0800000000000000
+      internalID: -5158939728124486715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 716
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c824243401a020800000000000000
+      internalID: 2351165102455572269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 719
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc34b782cbb38ff0800000000000000
+      internalID: -34977927914046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 719
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5088fe7bd973ae20800000000000000
+      internalID: 3360663730583535706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 722
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32038caeb0c76af30800000000000000
+      internalID: 4586489661148901411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b9a6dabc553460800000000000000
+      internalID: 7220779535093576484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5d7d3c677d83c0800000000000000
+      internalID: -4355693957825601954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e8be3c6bb88be50800000000000000
+      internalID: 6825358852367289954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2f1d38c43e7b870800000000000000
+      internalID: 8698671123057996476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b136db16b250c00800000000000000
+      internalID: 866146202127899456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc81828c976287b0800000000000000
+      internalID: -5223498695894266685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc866f42a83f810800000000000000
+      internalID: 1797932567608479701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 692
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef654cbed54ca60800000000000000
+      internalID: 7693377330648383046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 691
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979397f135667db70800000000000000
+      internalID: 8923713693854284153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 693
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250686e424625bab0800000000000000
+      internalID: -4993042545645166510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 693
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780dcfaf5de12af0800000000000000
+      internalID: -422795894768990085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 692
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a68f2e5e2718c1c0800000000000000
+      internalID: -4483307941131221335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 690
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b67e9bc65c3640800000000000000
+      internalID: 5061015513794525058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 692
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50335cd40b072c0800000000000000
+      internalID: -4435851784892512858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 668
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0adc0a3efb9ab30800000000000000
+      internalID: 4299178303678161086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 667
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa55f32347fcbf0800000000000000
+      internalID: -301894890850768292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 668
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1e4b6a94b31650800000000000000
+      internalID: 6202499687137549191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 669
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36999f35ec8d84980800000000000000
+      internalID: -8554349111506527901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 668
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346a204373f69960800000000000000
+      internalID: 7608536296812340278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 667
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd1274f00772630800000000000000
+      internalID: 3902210813060046081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 669
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53cd4136e7e73dd0800000000000000
+      internalID: -2506279691752717473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 669
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071d76bfa0466100800000000000000
+      internalID: 100839165087520524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7aaa59346a97c20800000000000000
+      internalID: 3204775419054827442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 642
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d3d29eedbf1cdc0800000000000000
+      internalID: -3620335690615800493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 645
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08220fdaebb0aa100800000000000000
+      internalID: 119921253668627072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 643
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe4c645f42e2b70800000000000000
+      internalID: 8876072551466725196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 643
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcff428783d55e60800000000000000
+      internalID: 7950493296152804601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 642
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412a835d63264b80800000000000000
+      internalID: -8410996301607853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 644
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9f097df75fa8f0800000000000000
+      internalID: -527105885209650032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 643
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfeea075ec1ef1f0800000000000000
+      internalID: -1009337494720811085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_52
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 645
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707c6093cea9cb50800000000000000
+      internalID: 6614009682735165566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 645
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0344a5f03845410800000000000000
+      internalID: 1464939880764420337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 644
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672ef7f83d786910800000000000000
+      internalID: 1830850932158375783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 617
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03a41dda1660f60800000000000000
+      internalID: 8000189187238801574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc83b50c565a1b0800000000000000
+      internalID: -5645994681000473518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 596
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69969d165d94ae10800000000000000
+      internalID: 2208062710507542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 596
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b079bfb94f38200800000000000000
+      internalID: 181257360803040098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 596
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53482f3077034e0800000000000000
+      internalID: -2003970975342512681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 596
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739138cebed3f580800000000000000
+      internalID: -8794440736340601998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 596
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a616e0aa681de0800000000000000
+      internalID: -1362221647992020442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 589
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fde17bd0d08370800000000000000
+      internalID: 8322881752308511045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 591
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515271744d5e04a80800000000000000
+      internalID: -8484528998077487851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 592
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f192ba2e1fab760800000000000000
+      internalID: 7474552487411261251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 594
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170713052cb5c990800000000000000
+      internalID: -7366274748342925540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 595
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcec93870fe2b5f0800000000000000
+      internalID: -742268173010801452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 592
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56336cc26ef5d3410800000000000000
+      internalID: 1458427296536212325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2d77dc607823b0800000000000000
+      internalID: -5537052129077941444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 558
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df7b68352491050800000000000000
+      internalID: 5771717323961924879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_70
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 557
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78135e11d20b2c8a0800000000000000
+      internalID: -6286268422235541113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c793e9bc23af6680800000000000000
+      internalID: -8759603337719736376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e03565f0c01a6250800000000000000
+      internalID: 5938577479578235113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 561
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa626da7b575cf0800000000000000
+      internalID: -263641470040887471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_74
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 556
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb192b3c4281c840800000000000000
+      internalID: 5242614705157643248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 558
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294ab473192cde20800000000000000
+      internalID: 3376618984160512299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 533
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b219fcaa15bcb90800000000000000
+      internalID: -7220587783489770621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 533
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e688622de33ec30800000000000000
+      internalID: 4387419534299524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 534
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd521e56e3f561f10800000000000000
+      internalID: 2240082586265265629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 533
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a50deb073c6920800000000000000
+      internalID: 2984821177400533322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 532
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae13d864c7c467ef0800000000000000
+      internalID: -110817044180684310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77827bbe5c3572410800000000000000
+      internalID: 1452221514378586231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 511
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759fd5621a595190800000000000000
+      internalID: -7973242630217689740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 510
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9171d19974d4d0800000000000000
+      internalID: -3110727775415067719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 474
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4663776c990cd0a0800000000000000
+      internalID: -6855593965409573299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 474
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd1d05ddaa50640800000000000000
+      internalID: 5045626825058933718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_86
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 476
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad6a4a273ca1020800000000000000
+      internalID: 2313376255764257419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 473
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60acfeda1a1082370800000000000000
+      internalID: 8297884107349674502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 473
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e888adc566ea2c0800000000000000
+      internalID: -4418481635414471134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_89
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 473
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9600b978e01b4d340800000000000000
+      internalID: 4887726171566571625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 473
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196cc2a84911e4e0800000000000000
+      internalID: -1954252963542439656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 475
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb636485e97725e30800000000000000
+      internalID: 4490783300411340478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 476
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29e9c2afefdef70800000000000000
+      internalID: 9218304362741142236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_93
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 476
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895ed93fda0909c0800000000000000
+      internalID: -3960622443430782589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_94
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 473
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe532aabddfaadcd0800000000000000
+      internalID: -2532518473588656657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 473
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427cf360829bb8380800000000000000
+      internalID: -8967870651423537372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 473
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75198c65b6ce5a910800000000000000
+      internalID: 1848143167867097431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_97
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 474
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9bac8e469f9e660800000000000000
+      internalID: 7415732473239878091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_98
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 475
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acbe480ebcdada90800000000000000
+      internalID: -7288270338204451678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a0b909e0729220800000000000000
+      internalID: 2491177690081569180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 445
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9404d1bef1c930800000000000000
+      internalID: 4161887570386788091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 444
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30454d9038684cf0800000000000000
+      internalID: -267849619822264258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_102
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 444
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805263a6860d9400800000000000000
+      internalID: 332429122831798410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5712a24a40476960800000000000000
+      internalID: 7595109984273307482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 441
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5988206b3c0a8d50800000000000000
+      internalID: 6740213241469241690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 443
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05a857c11577350800000000000000
+      internalID: 6014365010049519832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701dec9229f266440800000000000000
+      internalID: 4928679147016737031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_107
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 417
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb88e52bccf473f0800000000000000
+      internalID: -903819675750069314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_108
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 423
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac5cfda8f3b0bd0800000000000000
+      internalID: -2662964888967198027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 420
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7763ce5436580780800000000000000
+      internalID: -8716622295847442566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 421
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd69885689233c40800000000000000
+      internalID: 5490778027682524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_111
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 421
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c7e2d61dc34b50800000000000000
+      internalID: 6576325378802434541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_112
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 420
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7751d013a83a65810800000000000000
+      internalID: 1753768918831142263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 420
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d9c9a84841e0d0800000000000000
+      internalID: -3395353167137222390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 421
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f3ec716af5a9b0800000000000000
+      internalID: -5069370508921539038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 421
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca259788d999ea390800000000000000
+      internalID: -7805132202307923284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 421
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ec9fbce57a7230800000000000000
+      internalID: 3637349308742558228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_117
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 421
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b21e11f95bc29f0800000000000000
+      internalID: -491818564485829805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf283eab5be58cb0800000000000000
+      internalID: -4862221443679113273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345328c27ec1a2b40800000000000000
+      internalID: 5416173281076196675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_120
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 419
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5bd2bb01e7e980800000000000000
+      internalID: -8509585530531652491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_121
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 420
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac27a62cf2c26d0800000000000000
+      internalID: -3013981538561635594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_122
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 422
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f5e211216995b0800000000000000
+      internalID: -5361147086728988684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_123
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 419
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4055793fe9a819c0800000000000000
+      internalID: -3956225427718713269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_124
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 423
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf35fbcc7941aa0800000000000000
+      internalID: -6191156682088514327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_125
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 426
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2011a7e6aa51f30800000000000000
+      internalID: 4545726790371443388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9eea1bbfe214cb0800000000000000
+      internalID: -4881568862540207703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 375
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea5bedfe9638650800000000000000
+      internalID: 6233942788165447420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_128
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 378
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b7d1d9fcd8dc60800000000000000
+      internalID: 7843261716591261867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_129
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 385
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e358f6dff93f5c0800000000000000
+      internalID: -4182823718050513329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 382
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5308a4d6894140800000000000000
+      internalID: 4704439533675174549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_131
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 395
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfba98e7e3c85d00800000000000000
+      internalID: 961733921250918353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_132
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 389
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd292d27cb06c10800000000000000
+      internalID: 2044841432171339540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_133
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 391
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af2b92b766c9690800000000000000
+      internalID: -7594082192486892929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_134
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 390
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b90b028698b560800000000000000
+      internalID: 7329773878820582307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_135
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 388
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038cc98a30c02600800000000000000
+      internalID: 441564121134826240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_136
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 390
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f0cc93cf3d1990800000000000000
+      internalID: -7413699302200905106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_137
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 388
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3135b46a67d0c0800000000000000
+      internalID: -4551051917665420457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_138
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 388
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98d92c096014a80800000000000000
+      internalID: -8484493004179142149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_139
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 388
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10265abab525a9d80800000000000000
+      internalID: -8243185614273027583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 388
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42caa385daf1c5170800000000000000
+      internalID: 8168438653513280548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_141
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0bbab9b13e9b60800000000000000
+      internalID: 7754690282150104987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 389
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae7ff6c3c676340800000000000000
+      internalID: 4856969729974725198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_143
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 386
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725babee3ee084c60800000000000000
+      internalID: 7802502726544962855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7219935cbb4540800000000000000
+      internalID: 4993291679106759375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_145
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 353
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e52cecd49cce3cd0800000000000000
+      internalID: -2576396997075655191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 354
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e567646827ad06480800000000000000
+      internalID: -8907879877524949410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_147
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 353
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d3cfc6b86dc490800000000000000
+      internalID: -7724402651491478913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_148
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 354
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b763c0a5eca59e70800000000000000
+      internalID: 9121386722553456561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_149
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 363
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577455e3e05a62b0800000000000000
+      internalID: -5590567047691733161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_150
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 363
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336475c655bffed0800000000000000
+      internalID: -2377982693943778502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_151
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 362
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687022676e775e7d0800000000000000
+      internalID: -2889771754180180090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_152
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 361
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b739ea1700a650800000000000000
+      internalID: 6241996895698793996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_153
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce76f94984ef0450800000000000000
+      internalID: 6057311302139150022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_154
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 363
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4edc476991a1570800000000000000
+      internalID: 8438084985827484840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_155
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 363
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04bb511f2c759a0800000000000000
+      internalID: -6244308017618403167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_156
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34df178f475c649b0800000000000000
+      internalID: -5096168822148039357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_157
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 362
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5c726aee681140800000000000000
+      internalID: 4690620964860092052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_158
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 349
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dbee7b2ab45aee0800000000000000
+      internalID: -1250510159282782936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_159
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 358
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cee2f5e89b361a0800000000000000
+      internalID: -6817401389775393641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_160
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 362
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0019f94e2eed10800000000000000
+      internalID: 2156712166803114651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_161
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 363
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae67e0f385898b60800000000000000
+      internalID: 7748871435596557999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_162
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 362
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f483bf037026f040800000000000000
+      internalID: 4680964541254960376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751932c73c21e2030800000000000000
+      internalID: 3471732993559859543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_164
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 316
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc3bf210655cc40800000000000000
+      internalID: 5531922280389791567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_165
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 328
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d276c629ef2dc9f0800000000000000
+      internalID: -446648109615385901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_166
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 328
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2ce8b505f296a0800000000000000
+      internalID: -6443818711887631527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 329
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd45edaca6bb13d0800000000000000
+      internalID: -3234791054567453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_168
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378530b16b784d50800000000000000
+      internalID: 6721758103348807486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_169
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 332
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f93d92147616e640800000000000000
+      internalID: 5108795515082717680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_170
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 330
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636539fa1f0326af0800000000000000
+      internalID: -404707201919003082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_171
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 328
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d19e3cea44fe30800000000000000
+      internalID: 4536333103191414395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_172
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 328
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2099e225d4a8c310800000000000000
+      internalID: 1425570517383483437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_173
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 330
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751727a2eec72ff0800000000000000
+      internalID: -60852597083925128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_174
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 330
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f26bd591f52fc60800000000000000
+      internalID: 7850441663011237668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_175
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 330
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d1ad500c902560800000000000000
+      internalID: 7286995722470283614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_176
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379ed022467753e0800000000000000
+      internalID: -2065051877734705347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 329
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5b6f819f08ae50800000000000000
+      internalID: 6820718753503468247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_178
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 328
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ead36d051a8360800000000000000
+      internalID: 7172568503794985316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_179
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 328
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2f7bf0650e20c90800000000000000
+      internalID: -7204949793603849484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_180
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 328
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b7ac1df20a87820800000000000000
+      internalID: 2916256885966011250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_181
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 328
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae01e8fb55e758be0800000000000000
+      internalID: -1475634396142890774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_182
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 326
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4b299c5ae2e510800000000000000
+      internalID: 1577080502960736834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773cf2df14056950800000000000000
+      internalID: 6441559376753604479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_184
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc36d2d6c4df8590800000000000000
+      internalID: -7669677689982796607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_185
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131699f3b0396320800000000000000
+      internalID: 2551624213426737944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_186
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 298
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bbed0f6779668e0800000000000000
+      internalID: -1700505272182719717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_187
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 294
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08316b07bb6306220800000000000000
+      internalID: 2477039973731537792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_188
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797bdc7b110c8a620800000000000000
+      internalID: 2785687551859341207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_189
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 269
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79209091fbab186d0800000000000000
+      internalID: -2989903347675757929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_190
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab2914cd699e4a0800000000000000
+      internalID: -6563549109178680703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_191
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641aeaafc065a5650800000000000000
+      internalID: 6222380448911106374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_192
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453dfbd60bcc05bd0800000000000000
+      internalID: -2643387923138882732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_193
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e24cc7fbc75020800000000000000
+      internalID: 2330555597331816542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_194
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 239
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ec64a00ccffdf0800000000000000
+      internalID: -144172359921899447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_195
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 239
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326717513e67fb10800000000000000
+      internalID: 2015200516465189425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_196
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7161ee2489bea530800000000000000
+      internalID: 3868233107331178879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba5832e27c67f30800000000000000
+      internalID: 4573061472619703119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_198
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 181
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58193cc9ba3f34c0800000000000000
+      internalID: -4305658149073250212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_199
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b0ce513713ef70800000000000000
+      internalID: 9215234763340691377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_200
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd0780945cfea80800000000000000
+      internalID: -8435306659576751109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_201
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a18121d3e29350800000000000000
+      internalID: 6022126139097589493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_202
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92e5043194a94e0800000000000000
+      internalID: -1974185139615422024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_203
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 138
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4465ed33a44401050800000000000000
+      internalID: 5769186208150083140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_204
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 138
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3a235dff0988fa0800000000000000
+      internalID: -5798225091771587618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_205
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 135
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b266571e5b3bd7a30800000000000000
+      internalID: 4214722420041672235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_206
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a4bca6064ebc670800000000000000
+      internalID: 8560186619507460750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_207
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 138
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d261d032a9b7a0800000000000000
+      internalID: -6360874668129069265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193cc1808c3181a0800000000000000
+      internalID: -6809094638976354027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_209
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 136
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e6341579f99a9c0800000000000000
+      internalID: -3915422928769683923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_210
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 138
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dbe28a74ec1f4f0800000000000000
+      internalID: -796628851908231909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_211
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 135
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3120143e03b6eb90800000000000000
+      internalID: -7212880879602884291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_212
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 136
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd62aca6e5065b60800000000000000
+      internalID: 7734375898352348592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_213
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 138
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac480b8c58ff1db0800000000000000
+      internalID: -4818859999909884765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_214
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c14371e7886920800000000000000
+      internalID: 2983784155504035571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_215
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 109
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6131f2813ac2ec90800000000000000
+      internalID: -7141923745057132180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_216
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 109
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debb08d558593640800000000000000
+      internalID: 5060172782047575764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_217
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87476d1c284c42ca0800000000000000
+      internalID: -6042488734147513224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9f0f9ebd3c2a30800000000000000
+      internalID: 4191793242096770964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_219
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60a7e1fe58aebf0800000000000000
+      internalID: -294275563584354562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_220
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 62
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95987d26dc9f8d0800000000000000
+      internalID: -2811990667909572123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_221
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 60
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc114503f9d20c0800000000000000
+      internalID: -4598844614557709546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_222
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 61
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5321af1f80242120800000000000000
+      internalID: 2388069501496271706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_223
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b83a4b8aea56e0800000000000000
+      internalID: -1847906813115583914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_224
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 62
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aedcc77e020a3e60800000000000000
+      internalID: 7942663153984003745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_225
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 59
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2bc785bde67fd50800000000000000
+      internalID: 6771002453136290490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_226
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 60
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b472d521c20b740800000000000000
+      internalID: 5165677229977848582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_227
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336ffea8e4976890800000000000000
+      internalID: -7464834130254011593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_228
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778af05fbee1ffdb0800000000000000
+      internalID: -4756048682702362505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_229
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735add795d89e6b0800000000000000
+      internalID: -5266522873730018440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_230
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5d750e8a3df7c0800000000000000
+      internalID: -4036005309402227335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_231
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 36
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1785c1eb95e93c40800000000000000
+      internalID: 5492673678225540892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_232
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b0758aa1c94ee0800000000000000
+      internalID: -1276276081255466526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_233
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4dfc4eeb823e150800000000000000
+      internalID: 5900604737133204659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_234
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333c64f5b71ceec0800000000000000
+      internalID: -3536425537135430857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 40
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da80ef9460e448240800000000000000
+      internalID: 4793041692347205805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_236
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b79e73ec53cd50800000000000000
+      internalID: 6756345998137078122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_237
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 40
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9405a68325495bf0800000000000000
+      internalID: -335160678377257827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_238
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 40
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4890e5065f7010b30800000000000000
+      internalID: 4251688273679616388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_239
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e3569c3cc900f0800000000000000
+      internalID: -1150163669224266656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_240
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d79e28eeba9adc0800000000000000
+      internalID: -3627178983983317735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_241
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3a41540c599b70800000000000000
+      internalID: 8906250911715310428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_242
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 30
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d466683e34abb0800000000000000
+      internalID: -4925743680479504088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_243
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 28
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1611b357e0ab9710800000000000000
+      internalID: 1701130199664498207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_244
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 28
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185315022b6e5200800000000000000
+      internalID: 170691629744871447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 17
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789de64d1ca4b5590800000000000000
+      internalID: -7684466142824441465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_246
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09baa8a855279d0e0800000000000000
+      internalID: -2244637227545351280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_247
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3cad309ff86210800000000000000
+      internalID: 1326591085235683325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_248
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e0e149b5cf8890800000000000000
+      internalID: -7453521458810002645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 17
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d12781569b5eec0800000000000000
+      internalID: -3538218088376689250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_250
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836d3c4185b710c0800000000000000
+      internalID: -4605012527028542580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_251
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb8775811075730800000000000000
+      internalID: 3987657199118236874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_252
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 5
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77312d8af38fb8020800000000000000
+      internalID: 2345240983275443063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_253
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48bb45ca55212090800000000000000
+      internalID: -8061120786229118902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_254
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db073b3d251bfe470800000000000000
+      internalID: 8426148397130674365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_255
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc401e9b6339a7ea0800000000000000
+      internalID: -5874220900695341877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_256
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d715e07d64e76e920800000000000000
+      internalID: 3019239442919346557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_257
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ff006a4f358b50800000000000000
+      internalID: 6594746818025748575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_258
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c512b236d5aac790800000000000000
+      internalID: -7509007089294764601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yoshi_by_jmkrebs30_d4ygyah_259
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4b6677d4341290800000000000000
+      internalID: -7920647744628502676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
