@@ -62,3 +62,11 @@ The following packages were added:
   com.unity.connect.share@4.1.1
   com.unity.learn.iet-framework@1.2.3
   com.unity.postprocessing@3.1.1
+
+=== Sun Dec  5 21:28:48 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.cinemachine from version 2.6.5 to 2.7.4
