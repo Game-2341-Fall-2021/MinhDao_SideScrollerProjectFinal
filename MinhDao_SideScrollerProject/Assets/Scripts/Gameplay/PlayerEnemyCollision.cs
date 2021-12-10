@@ -49,7 +49,7 @@ namespace Platformer.Gameplay
             }
             else
             {
-                if (player.health.currentHP == 1)
+                if(player.health.currentHP==1)
                 {
 
                     Schedule<PlayerDeath>();
@@ -58,7 +58,7 @@ namespace Platformer.Gameplay
                 else
                 {
                     player.health.Decrement();
-                    player.animator.SetTrigger("hurt");
+                    player.animator.SetTrigger("PlayerHurt");
                     player.audioSource.PlayOneShot(player.ouchAudio);
                 }
             }

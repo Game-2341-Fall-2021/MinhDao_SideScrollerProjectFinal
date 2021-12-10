@@ -73,11 +73,11 @@ namespace Platformer.Mechanics
 
             if (currentHP == 0)
             {
-                  var ev = Schedule<HealthIsZero>();
-                  ev.health = this;
-                  ev.Execute();
+                  //var ev = Schedule<HealthIsZero>();
+                  //ev.health = this;
+                 //ev.Execute();
 
-                 setinitiallife();
+                 //setinitiallife();
             }
             
         }
