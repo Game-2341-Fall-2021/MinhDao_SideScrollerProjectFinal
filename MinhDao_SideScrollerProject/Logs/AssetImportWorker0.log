@@ -3198,3 +3198,125 @@ Received Import Request.
 Start importing Assets/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@forward.FBX using Guid(1da85f72a7a82bc4eabdbd8f0683bde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea68b19c98bd5eb40992a12626cb153') in 0.095083 seconds 
   Import took 0.105253 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016855 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.695 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1695ms)
+		BeginReloadAssembly (148ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1448ms)
+			LoadAssemblies (142ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (500ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (592ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (116ms)
+				ProcessInitializeOnLoadAttributes (443ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4389 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.3 MB.
+System memory in use after: 166.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4972.
+Total: 6.218500 ms (FindLiveObjects: 0.550200 ms CreateObjectMapping: 0.166400 ms MarkObjects: 5.462700 ms  DeleteObjects: 0.036600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 52136.342287 seconds.
+  path: Assets/MinhAsset/Rectangular Palette.prefab
+  artifactKey: Guid(04b3f2c877dda104da68715207908e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/Rectangular Palette.prefab using Guid(04b3f2c877dda104da68715207908e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f169a5900ca8596a02b2290579480bb2') in 0.628520 seconds 
+  Import took 0.973487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.903040 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a31999587a496de3c190bedfe7849ff') in 0.059861 seconds 
+  Import took 0.069110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.833176 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad598dba42d17bf36cded6fed6055b5a') in 0.031287 seconds 
+  Import took 0.040814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.694341 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3199f53aeec79fd929c94c1e7c7058a6') in 0.022516 seconds 
+  Import took 0.030806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002483 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3199f53aeec79fd929c94c1e7c7058a6') in 0.017520 seconds 
+  Import took 0.025655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.256534 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caa669c5ac36abeb2d89641fb9e88e8') in 0.030054 seconds 
+  Import took 0.042080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.887883 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png
+  artifactKey: Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Tileset 1.png using Guid(f8d8628862c7efd4186d5908ed6d729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd0f5f253907b85f4ee2d84a740934c1') in 0.026656 seconds 
+  Import took 0.035497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 789.385365 seconds.
+  path: Assets/Scripts/Mechanics/Health.cs
+  artifactKey: Guid(ffad43bb006db4856a9c527b89b48db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Mechanics/Health.cs using Guid(ffad43bb006db4856a9c527b89b48db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb2509a8b5c4066004d23bab9bd0caf') in 0.009631 seconds 
+  Import took 0.019775 seconds .
+
