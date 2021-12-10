@@ -356,3 +356,235 @@ Received Import Request.
 Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9a22ef7a9a8d7bbc9c5c0be8ed491c') in 0.034732 seconds 
   Import took 0.044406 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 266.741568 seconds.
+  path: Assets/MinhAsset/smb3-enemies_sheet.png
+  artifactKey: Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-enemies_sheet.png using Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72dd2889fac82e9f3e1b0abe66733ac8') in 0.038693 seconds 
+  Import took 0.047558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/MinhAsset/smb3-items_sheet.png
+  artifactKey: Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-items_sheet.png using Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93aa667927d1068d362efd45b3bb6481') in 0.030873 seconds 
+  Import took 0.042608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.697616 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c8a2795967d3f9f40de3480164e12b') in 0.020234 seconds 
+  Import took 0.029539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.322567 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aacc1a387a5a81bbb46f4e9ac9a6eec') in 0.028191 seconds 
+  Import took 0.036632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.699505 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d85df0ce8c0dca791c0016a94c465d8') in 0.026465 seconds 
+  Import took 0.034814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.851371 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd21b73abb3427d98035d617fe6630e') in 0.024037 seconds 
+  Import took 0.033150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.699460 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf112da790036bda4fda77af6751ce2') in 0.026790 seconds 
+  Import took 0.034698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.453472 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4160330ee96a8951bd7fe5262050c1ce') in 0.024889 seconds 
+  Import took 0.032860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.998444 seconds.
+  path: Assets/MinhAsset/smb3-enemies_sheet.png
+  artifactKey: Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-enemies_sheet.png using Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f426605dab63844e65aafa01e1217a') in 0.020209 seconds 
+  Import took 0.029022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.193484 seconds.
+  path: Assets/MinhAsset/smb3-enemies_sheet.png
+  artifactKey: Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-enemies_sheet.png using Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb9c890f9774c1fdb9f40560ac5183e') in 0.033238 seconds 
+  Import took 0.042539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.764610 seconds.
+  path: Assets/MinhAsset/smw_bowser_sheet.png
+  artifactKey: Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smw_bowser_sheet.png using Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c8be5658d9383ea1c8cab344a3d8ad') in 0.019502 seconds 
+  Import took 0.028901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.783359 seconds.
+  path: Assets/MinhAsset/smw_bowser_sheet.png
+  artifactKey: Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smw_bowser_sheet.png using Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13dd498abaf0f8b9b71816c8f2438981') in 0.028405 seconds 
+  Import took 0.036895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.325873 seconds.
+  path: Assets/MinhAsset/smb3-items_sheet.png
+  artifactKey: Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-items_sheet.png using Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55f7cd431a51191f3ecc31ea9c83e7b') in 0.017431 seconds 
+  Import took 0.026133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.430417 seconds.
+  path: Assets/MinhAsset/wincondition.controller
+  artifactKey: Guid(f63c340679fba184aa883cbb94afbd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/wincondition.controller using Guid(f63c340679fba184aa883cbb94afbd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f522101c2f58d28b73476803038c1bba') in 0.013910 seconds 
+  Import took 0.023332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.403579 seconds.
+  path: Assets/MinhAsset/smw_bowser_sheet.png
+  artifactKey: Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smw_bowser_sheet.png using Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbcb624aee46762d2305a7f4165e5ff') in 0.171821 seconds 
+  Import took 0.180268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.706850 seconds.
+  path: Assets/MinhAsset/smb3-items_sheet.png
+  artifactKey: Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-items_sheet.png using Guid(ebb1944df232cc34d8eef80cc6c9bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf34310fe8090a5cf2b3965e40dae15b') in 0.120518 seconds 
+  Import took 0.131957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.910370 seconds.
+  path: Assets/MinhAsset/smb3-enemies_sheet.png
+  artifactKey: Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smb3-enemies_sheet.png using Guid(e00ed7a1a735e0c419b0b6000568779e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b687e526c0b01688d0bd98ef2e53d1c') in 1.839867 seconds 
+  Import took 1.851277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.576427 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a196685ac305ab2dc2afd660ecea16d6') in 0.027040 seconds 
+  Import took 0.035637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.593382 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c86fd0884f082a5b9e65c5e87a09b54') in 0.118642 seconds 
+  Import took 0.127772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.614570 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f71d8e76924c670ace3eada10eeddf') in 0.094810 seconds 
+  Import took 0.104112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.071300 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.png
+  artifactKey: Guid(5e323711d2d08e240a71de8d30aa4110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.png using Guid(5e323711d2d08e240a71de8d30aa4110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51932a39f1710351eb523d90efd8ff0c') in 0.027229 seconds 
+  Import took 0.035803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Night Hills 1.png
+  artifactKey: Guid(808bd0169d91ed243b056ccd894da398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Night Hills 1.png using Guid(808bd0169d91ed243b056ccd894da398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed861b8c1c2bfb58ec158e6446e15345') in 0.029379 seconds 
+  Import took 0.038504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.png
+  artifactKey: Guid(5e323711d2d08e240a71de8d30aa4110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.png using Guid(5e323711d2d08e240a71de8d30aa4110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51932a39f1710351eb523d90efd8ff0c') in 0.018344 seconds 
+  Import took 0.027628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Grass Land 3.png
+  artifactKey: Guid(215514dac06315a4395afe6cb0e60b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Grass Land 3.png using Guid(215514dac06315a4395afe6cb0e60b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53075a7cd905ac7b66f72cc292236123') in 0.025195 seconds 
+  Import took 0.033847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.407253 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0cad0aa4046b2e8b6fd87d1759c015') in 0.038328 seconds 
+  Import took 0.047103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.asset
+  artifactKey: Guid(da60334dffdf7064a888e785e8bfaa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Giant Hills 1.asset using Guid(da60334dffdf7064a888e785e8bfaa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5d64509b6f23a8cae3580c9d255343') in 0.015341 seconds 
+  Import took 0.023675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.723194 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Grass Land 3.asset
+  artifactKey: Guid(6676333305d8f2c4c9a7aa7fcaa61831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Grass Land 3.asset using Guid(6676333305d8f2c4c9a7aa7fcaa61831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af2013d7d077b2bea1eb1733647c143') in 0.018679 seconds 
+  Import took 0.027372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.825772 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Night Hills 1.asset
+  artifactKey: Guid(98f73132e14c2af4bad01de55f46427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Night Hills 1.asset using Guid(98f73132e14c2af4bad01de55f46427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29187346122f103567cc03f7cb2bd96') in 0.021088 seconds 
+  Import took 0.029544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.726121 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ade4859f23412410ceab1eff6f29229') in 0.025605 seconds 
+  Import took 0.033802 seconds .
+

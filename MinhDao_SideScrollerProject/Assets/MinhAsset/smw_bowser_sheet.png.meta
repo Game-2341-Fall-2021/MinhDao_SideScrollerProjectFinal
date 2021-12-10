@@ -1,7 +1,112 @@
 fileFormatVersion: 2
 guid: 1cf08b6e888ce68468fdc3816eb13b0f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4421204417375884633
+    second: smw_bowser_sheet_0
+  - first:
+      213: 4065636827860420517
+    second: smw_bowser_sheet_1
+  - first:
+      213: -5584092018405271051
+    second: smw_bowser_sheet_2
+  - first:
+      213: 754217097263209729
+    second: smw_bowser_sheet_3
+  - first:
+      213: 4198458938390639133
+    second: smw_bowser_sheet_4
+  - first:
+      213: -7663220572966461822
+    second: smw_bowser_sheet_5
+  - first:
+      213: 3843919627711575904
+    second: smw_bowser_sheet_6
+  - first:
+      213: 5084919657005490983
+    second: smw_bowser_sheet_7
+  - first:
+      213: -5497665738487524578
+    second: smw_bowser_sheet_8
+  - first:
+      213: -3083651046216009431
+    second: smw_bowser_sheet_9
+  - first:
+      213: 8148229331931270098
+    second: smw_bowser_sheet_10
+  - first:
+      213: -4841214765401874974
+    second: smw_bowser_sheet_11
+  - first:
+      213: -3908465369776050024
+    second: smw_bowser_sheet_12
+  - first:
+      213: 4386549272940123812
+    second: smw_bowser_sheet_13
+  - first:
+      213: -2443768625507603082
+    second: smw_bowser_sheet_14
+  - first:
+      213: -6304861788308008606
+    second: smw_bowser_sheet_15
+  - first:
+      213: 4465466698360457044
+    second: smw_bowser_sheet_16
+  - first:
+      213: 6250577039255891514
+    second: smw_bowser_sheet_17
+  - first:
+      213: -53361083962667516
+    second: smw_bowser_sheet_18
+  - first:
+      213: 154895659533564821
+    second: smw_bowser_sheet_19
+  - first:
+      213: -485691999116450816
+    second: smw_bowser_sheet_20
+  - first:
+      213: 6455811637450387765
+    second: smw_bowser_sheet_21
+  - first:
+      213: 4662229362725807487
+    second: smw_bowser_sheet_22
+  - first:
+      213: -5596925062297277490
+    second: smw_bowser_sheet_23
+  - first:
+      213: -6630437853265992399
+    second: smw_bowser_sheet_24
+  - first:
+      213: -8527486382036761748
+    second: smw_bowser_sheet_25
+  - first:
+      213: -8067182614078972279
+    second: smw_bowser_sheet_26
+  - first:
+      213: 4984856526840545841
+    second: smw_bowser_sheet_27
+  - first:
+      213: -2741281721915610166
+    second: smw_bowser_sheet_28
+  - first:
+      213: 4009713679336476885
+    second: smw_bowser_sheet_29
+  - first:
+      213: 6533217042086637400
+    second: smw_bowser_sheet_30
+  - first:
+      213: 8026813423337784355
+    second: smw_bowser_sheet_31
+  - first:
+      213: 5972018327719726843
+    second: smw_bowser_sheet_32
+  - first:
+      213: 4922836970883564381
+    second: smw_bowser_sheet_33
+  - first:
+      213: -4309563743206158832
+    second: smw_bowser_sheet_34
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +146,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +180,756 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: smw_bowser_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2ce6c10ab4a2c0800000000000000
+      internalID: -4421204417375884633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 398
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7cd5e772b0c6830800000000000000
+      internalID: 4065636827860420517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 394
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91cd125e15182b0800000000000000
+      internalID: -5584092018405271051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 394
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d56e53474877a00800000000000000
+      internalID: 754217097263209729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 459
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1276daf82ce34a30800000000000000
+      internalID: 4198458938390639133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5ed88d75c6a590800000000000000
+      internalID: -7663220572966461822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06776e21988585530800000000000000
+      internalID: 3843919627711575904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 284
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a63bac73419640800000000000000
+      internalID: 5084919657005490983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e139d93832e54b3b0800000000000000
+      internalID: -5497665738487524578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929780b16bba435d0800000000000000
+      internalID: -3083651046216009431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8e2ef763541170800000000000000
+      internalID: 8148229331931270098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed58da12dc80dcb0800000000000000
+      internalID: -4841214765401874974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903591447752c9c0800000000000000
+      internalID: -3908465369776050024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61853a25720ec30800000000000000
+      internalID: 4386549272940123812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67def5bf16df51ed0800000000000000
+      internalID: -2443768625507603082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26197fdab91a088a0800000000000000
+      internalID: -6304861788308008606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 164
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578c189d4688fd30800000000000000
+      internalID: 4465466698360457044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6f0243b28eb650800000000000000
+      internalID: 6250577039255891514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 229
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4399706c624ff0800000000000000
+      internalID: -53361083962667516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 229
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b7fbb18cc462200800000000000000
+      internalID: 154895659533564821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 179
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0042a6a33b97249f0800000000000000
+      internalID: -485691999116450816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 179
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531301bda76a79950800000000000000
+      internalID: 6455811637450387765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75eaa267e093b040800000000000000
+      internalID: 4662229362725807487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2a434f4ab352b0800000000000000
+      internalID: -5596925062297277490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e6cae6e3fbf3a0800000000000000
+      internalID: -6630437853265992399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 113
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c7bbe05848a980800000000000000
+      internalID: -8527486382036761748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 113
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9d9d772c9b0090800000000000000
+      internalID: -8067182614078972279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 113
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324e9aa994cd2540800000000000000
+      internalID: 4984856526840545841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe2ff3cc205f9d0800000000000000
+      internalID: -2741281721915610166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d010e3d85d55a730800000000000000
+      internalID: 4009713679336476885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2a1a0946aaaa50800000000000000
+      internalID: 6533217042086637400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c268d748f46f60800000000000000
+      internalID: 8026813423337784355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4bd7270fd0e250800000000000000
+      internalID: 5972018327719726843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 13
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53cca8842e615440800000000000000
+      internalID: 4922836970883564381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw_bowser_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 13
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4b4dcb9a5134c0800000000000000
+      internalID: -4309563743206158832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
