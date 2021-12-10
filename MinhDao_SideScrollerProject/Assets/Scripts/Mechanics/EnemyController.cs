@@ -36,7 +36,10 @@ namespace Platformer.Mechanics
             var player = collision.gameObject.GetComponent<PlayerController>();
             if (player != null)
             {
+                // player.PlayerScore += 10;
+
                 var ev = Schedule<PlayerEnemyCollision>();
+                //ev.PlayerInv = PlayerInv;
                 ev.player = player;
                 ev.enemy = this;
             }

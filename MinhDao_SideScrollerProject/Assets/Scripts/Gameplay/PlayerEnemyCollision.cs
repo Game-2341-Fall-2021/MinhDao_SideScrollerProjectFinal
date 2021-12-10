@@ -15,6 +15,7 @@ namespace Platformer.Gameplay
     {
         public EnemyController enemy;
         public PlayerController player;
+        //public Inventory PlayerInv;
 
         PlatformerModel model = Simulation.GetModel<PlatformerModel>();
 
@@ -24,6 +25,8 @@ namespace Platformer.Gameplay
 
             if (willHurtEnemy)
             {
+                //PlayerInv.addinventory("BaddieCollectable");
+                //player.PlayerScore += 10;
                 var enemyHealth = enemy.GetComponent<Health>();
                 if (enemyHealth != null)
                 {
@@ -46,7 +49,18 @@ namespace Platformer.Gameplay
             }
             else
             {
-                Schedule<PlayerDeath>();
+                if (player.health.currentHP == 1)
+                {
+
+                    Schedule<PlayerDeath>();
+
+                }
+                else
+                {
+                    player.health.Decrement();
+                    player.animator.SetTrigger("hurt");
+                    player.audioSource.PlayOneShot(player.ouchAudio);
+                }
             }
         }
     }

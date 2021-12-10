@@ -48,6 +48,9 @@ namespace Platformer.Mechanics
         void OnPlayerEnter(PlayerController player)
         {
             if (collected) return;
+            //player.PlayerScore += 10;
+            //PlayerInv.addinventory("TokenCollectable");
+            player.health.Increment();
             //disable the gameObject and remove it from the controller update list.
             frame = 0;
             sprites = collectedAnimation;
