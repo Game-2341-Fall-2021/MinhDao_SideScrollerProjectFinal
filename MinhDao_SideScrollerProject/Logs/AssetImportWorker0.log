@@ -1,0 +1,358 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 16269 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Admin/Desktop/Projects/Unity/MinhDao_SideScrollerProjectFinal/MinhDao_SideScrollerProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+1519
+Successfully changed project path to: C:/Users/Admin/Desktop/Projects/Unity/MinhDao_SideScrollerProjectFinal/MinhDao_SideScrollerProject
+C:/Users/Admin/Desktop/Projects/Unity/MinhDao_SideScrollerProjectFinal/MinhDao_SideScrollerProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 211.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Admin/Desktop/Projects/Unity/MinhDao_SideScrollerProjectFinal/MinhDao_SideScrollerProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon(TM) RX 580 (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   30.0.13037.1003
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002297 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 207.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.668 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1668ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (706ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (375ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (208ms)
+				BeforeProcessingInitializeOnLoad (21ms)
+				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012207 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 212.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.178 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2183ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1902ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (547ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (115ms)
+			SetupLoadedEditorAssemblies (885ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (213ms)
+				BeforeProcessingInitializeOnLoad (177ms)
+				ProcessInitializeOnLoadAttributes (448ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 2.74 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.1 MB.
+System memory in use after: 167.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 4879.
+Total: 5.825900 ms (FindLiveObjects: 0.548700 ms CreateObjectMapping: 0.165100 ms MarkObjects: 5.062000 ms  DeleteObjects: 0.047300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/MinhAsset/Rectangular Palette.prefab
+  artifactKey: Guid(3d0ee4acb6685204095e401d19b012f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/Rectangular Palette.prefab using Guid(3d0ee4acb6685204095e401d19b012f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570dfd745e72958619ecbf797205b565') in 0.163733 seconds 
+  Import took 0.172939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.894483 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d053794e7772174af46f25f49a069d6') in 0.023439 seconds 
+  Import took 0.032059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.240826 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525a7f8309d7a3f209fcbbcc6f847122') in 0.029778 seconds 
+  Import took 0.039374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Hills.asset
+  artifactKey: Guid(9721f60fc5e8f434e9b0988b8c3c5e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Hills.asset using Guid(9721f60fc5e8f434e9b0988b8c3c5e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b7fadad865079476ca3453957bae42') in 0.027847 seconds 
+  Import took 0.037738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 327.801694 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO 13.png
+  artifactKey: Guid(733b7951f1e396f4481f2d749b9cbd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO 13.png using Guid(733b7951f1e396f4481f2d749b9cbd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e805e08c207ef8cf82c167f4da2424da') in 0.127725 seconds 
+  Import took 0.137300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO Bonus.png
+  artifactKey: Guid(3d40053368b6bbe4c807e6f5da04b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO Bonus.png using Guid(3d40053368b6bbe4c807e6f5da04b0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efef9b2b050c9139a8aa28739b1a0c3e') in 0.032775 seconds 
+  Import took 0.042035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.705051 seconds.
+  path: Assets/MinhAsset/Rectangular Palette 1.prefab
+  artifactKey: Guid(32627d41054129c408e6c77fd8c1f269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/Rectangular Palette 1.prefab using Guid(32627d41054129c408e6c77fd8c1f269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420fe90a682a19f32785e8a4036e9e2a') in 0.025497 seconds 
+  Import took 0.033948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.498171 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e8c3ed53eecd806a02333ce454f5a0') in 0.027674 seconds 
+  Import took 0.037806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO Bonus.asset
+  artifactKey: Guid(cec677be9063332478f3fa6b46c62328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO Bonus.asset using Guid(cec677be9063332478f3fa6b46c62328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6951e432ea40d3f5f202d0d17e7a73c') in 0.021843 seconds 
+  Import took 0.030004 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012753 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\Desktop\Projects\Unity\MinhDao_SideScrollerProjectFinal\MinhDao_SideScrollerProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.740 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1741ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (59ms)
+		EndReloadAssembly (1479ms)
+			LoadAssemblies (151ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (498ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (612ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (165ms)
+				ProcessInitializeOnLoadAttributes (413ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4389 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165.1 MB.
+System memory in use after: 165.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4896.
+Total: 6.088700 ms (FindLiveObjects: 0.518900 ms CreateObjectMapping: 0.157700 ms MarkObjects: 5.379300 ms  DeleteObjects: 0.030700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 164.515850 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO 13.asset
+  artifactKey: Guid(38fd78b8014513d498df3c70686db45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario World 2 Yoshis Island - 4-1 GO GO MARIO 13.asset using Guid(38fd78b8014513d498df3c70686db45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f900a7d5ba8138496e15a5e0ad916d8') in 0.093198 seconds 
+  Import took 0.102833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226bec818fd21ac3b6d6e135752f5651') in 0.057906 seconds 
+  Import took 0.067345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004102 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226bec818fd21ac3b6d6e135752f5651') in 0.019185 seconds 
+  Import took 0.027590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.252881 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Kings Chamber 1.png
+  artifactKey: Guid(4527635fe6ce0414d8ce91aa4adce2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Kings Chamber 1.png using Guid(4527635fe6ce0414d8ce91aa4adce2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3246813e8f86a79de286e3c223f5d8') in 0.045041 seconds 
+  Import took 0.053857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.846623 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19886fa0887e6daaa47f7d0b4950820') in 0.025801 seconds 
+  Import took 0.033918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Kings Chamber 1.asset
+  artifactKey: Guid(629d7e5e1f0a8b64e89875c3795b112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/SNES - Super Mario All-Stars Super Mario Bros 3 - Kings Chamber 1.asset using Guid(629d7e5e1f0a8b64e89875c3795b112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdaf3c0a9172a32c5bb1cd68665f973') in 0.014444 seconds 
+  Import took 0.022850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.636089 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64630f5438b50ceb2f61e4c915c5dd67') in 0.029700 seconds 
+  Import took 0.039222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 315.824921 seconds.
+  path: Assets/MinhAsset/New Palette.prefab
+  artifactKey: Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/New Palette.prefab using Guid(fefcb387613d66b4faf6f230f093b7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce9f7a7899bc6211e4a481c47f564c8') in 0.030683 seconds 
+  Import took 0.043187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1148.050688 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62ec2ccd834d1244f446a4b37055a87') in 0.030723 seconds 
+  Import took 0.039177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/MinhAsset/smw_bowser_sheet.png
+  artifactKey: Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/smw_bowser_sheet.png using Guid(1cf08b6e888ce68468fdc3816eb13b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be34ab538e45d56715f6e0d09cc71811') in 0.028653 seconds 
+  Import took 0.036959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png
+  artifactKey: Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/PikPng.com_mario-cloud-png_4791967.png using Guid(e5efa6115b3b74e44b78248d90f47339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62ec2ccd834d1244f446a4b37055a87') in 0.023257 seconds 
+  Import took 0.033157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png
+  artifactKey: Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MinhAsset/pngfind.com-mario-block-png-2444815.png using Guid(c98e67cb80d015e448d6a7dbc9485d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9a22ef7a9a8d7bbc9c5c0be8ed491c') in 0.034732 seconds 
+  Import took 0.044406 seconds .
+
