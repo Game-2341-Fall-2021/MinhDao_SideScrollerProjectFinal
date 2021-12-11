@@ -5,6 +5,8 @@ using Platformer.Gameplay;
 using static Platformer.Core.Simulation;
 using Platformer.Model;
 using Platformer.Core;
+using UnityEngine.UI;
+using TMPro;
 
 namespace Platformer.Mechanics
 {
@@ -14,14 +16,18 @@ namespace Platformer.Mechanics
     /// </summary>
     public class PlayerController : KinematicObject
     {
+
         public AudioClip jumpAudio;
         public AudioClip respawnAudio;
         public AudioClip ouchAudio;
-        public Sprite Wincondition_Sprite;
+        public TextMeshProUGUI Scoretext;
+        public GameObject Wincondition_Sprite;
         /// <summary>
         /// Max horizontal speed of the player.
         /// </summary>
         public float maxSpeed = 7;
+        float initialspeed;
+        public int PlayerScore = 0;
         /// <summary>
         /// Initial jump velocity at the start of a jump.
         /// </summary>
@@ -29,37 +35,58 @@ namespace Platformer.Mechanics
 
         public JumpState jumpState = JumpState.Grounded;
         private bool stopJump;
-        /*internal new*/ public Collider2D collider2d;
-        /*internal new*/ public AudioSource audioSource;
+        /*internal new*/
+        public Collider2D collider2d;
+        /*internal new*/
+        public AudioSource audioSource;
         public Health health;
         public bool controlEnabled = true;
 
         bool jump;
         Vector2 move;
         SpriteRenderer spriteRenderer;
+        public SpriteRenderer mockplayer;
+        public Animator mockplayerAnimator;
         internal Animator animator;
         readonly PlatformerModel model = Simulation.GetModel<PlatformerModel>();
+        //public Joystick joystickcomponent;
 
         public Bounds Bounds => collider2d.bounds;
 
         void Awake()
         {
+
             health = GetComponent<Health>();
             audioSource = GetComponent<AudioSource>();
             collider2d = GetComponent<Collider2D>();
             spriteRenderer = GetComponent<SpriteRenderer>();
             animator = GetComponent<Animator>();
+            initialspeed = maxSpeed;
         }
 
         protected override void Update()
         {
             if (controlEnabled)
             {
-                move.x = Input.GetAxis("Horizontal");
+
+                if (Input.GetButton("Boost"))
+                {
+                    // animator.SetBool("grounded", false);
+                    // animator.Play("Player-Jump");
+                    maxSpeed = 14;
+                }
+                else
+                {
+                    maxSpeed = initialspeed;
+                }
+
+
+                move.x = Input.GetAxis("Horizontal");/*joystickcomponent.Horizontal; */
                 if (jumpState == JumpState.Grounded && Input.GetButtonDown("Jump"))
                     jumpState = JumpState.PrepareToJump;
                 else if (Input.GetButtonUp("Jump"))
                 {
+
                     stopJump = true;
                     Schedule<PlayerStopJump>().player = this;
                 }
@@ -70,6 +97,23 @@ namespace Platformer.Mechanics
             }
             UpdateJumpState();
             base.Update();
+
+            //Scoretext.text = "Score:  " + PlayerScore;
+
+
+
+        }
+
+        public void jumpbutton()
+        {
+            if (jumpState == JumpState.Grounded)
+            {
+                jumpState = JumpState.PrepareToJump;
+                stopJump = true;
+                Schedule<PlayerStopJump>().player = this;
+
+            }
+
         }
 
         void UpdateJumpState()
@@ -119,23 +163,25 @@ namespace Platformer.Mechanics
             }
 
             if (move.x > 0.01f)
+            {
                 spriteRenderer.flipX = false;
+                // mockplayer.flipX = false;
+            }
+
             else if (move.x < -0.01f)
+            {
                 spriteRenderer.flipX = true;
+                //  mockplayer.flipX = true;
+            }
+
 
             animator.SetBool("grounded", IsGrounded);
             animator.SetFloat("velocityX", Mathf.Abs(velocity.x) / maxSpeed);
+            // mockplayerAnimator.SetFloat("speedx", Mathf.Abs(velocity.x) / maxSpeed);
 
             targetVelocity = move * maxSpeed;
 
-            if(Input.GetKeyDown(KeyCode.LeftShift))
-            {
-                maxSpeed = 14;
-            }
-            if (Input.GetKeyUp(KeyCode.LeftShift))
-            {
-                maxSpeed = 7;
-            }
+
         }
 
         public enum JumpState
