@@ -127,6 +127,15 @@ namespace Platformer.Mechanics
             animator.SetFloat("velocityX", Mathf.Abs(velocity.x) / maxSpeed);
 
             targetVelocity = move * maxSpeed;
+
+            if(Input.GetKeyDown(KeyCode.LeftShift))
+            {
+                maxSpeed = 14;
+            }
+            if (Input.GetKeyUp(KeyCode.LeftShift))
+            {
+                maxSpeed = 7;
+            }
         }
 
         public enum JumpState
